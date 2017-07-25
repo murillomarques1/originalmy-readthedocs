@@ -1,7 +1,8 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Miriam Oshiro
+* Edilson Osorio Junior
+* Renato Martins
 
 
