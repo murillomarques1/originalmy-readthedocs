@@ -18,7 +18,7 @@ Registro
 
 - Acesse o site: originalmy.com e clique em Login_
   
-.. image:: /docs/images/login.jpg  
+.. image:: images/login.jpg  
   
 
 - Clique para selecionar o arquivo a ser registrado ou arraste o arquivo para dentro do campo indicado
