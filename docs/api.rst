@@ -3,11 +3,7 @@ API
 
 Documentação de API para registro de documentos e integração com o APP de Assinatura de Contratos em Blockchain OriginalMy.com
 
-Todos os registros de teste acontecem nas Testnets públicas dos blockchains, todas as transações e endereços de wallet podem ser verificados na testnet de cada uma das redes:
-
-Bitcoin_
-Ethereum_
-Decred_
+Todos os registros de teste acontecem nas Testnets públicas dos blockchains, todas as transações e endereços de wallet podem ser verificados na testnet de cada uma das redes.
 
 O APP Android de exemplo pode ser baixado em https://s3-sa-east-1.amazonaws.com/originalmy-app-staging/originalmy-app-testnet.apk
 
@@ -25,7 +21,7 @@ Contratos
 Checar contratos pendentes de assinatura pelo Usuário
 -----------------------------------------------------
 
-Method: **GET**
+Method: GET
 
 Endpoint: http://testnet.originalmy.com/api/v1/check_contracts
 
@@ -65,7 +61,7 @@ Exemplo de retorno:
 Listar todos os contratos para o usuário
 ----------------------------------------
 
-Method: **GET**
+Method: GET
 
 Endpoint: http://testnet.originalmy.com/api/v1/check_all_contracts
 
@@ -119,7 +115,7 @@ Exemplo de retorno:
 Registro de Contratos
 ---------------------
 
-Method: **GET**
+Method: GET
 
 Endpoint: http://testnet.originalmy.com/api/v1/company/register-contract
 
@@ -170,7 +166,7 @@ Exemplo de retorno:
 Verificação do status do contrato
 ---------------------------------
 
-Method: **GET**
+Method: GET
 
 Endpoint: http://testnet.originalmy.com/api/v1/status
 
@@ -232,7 +228,7 @@ Documentos
 Registro de documentos
 ----------------------
 
-Method: **GET**
+Method: GET
 
 Endpoint: http://testnet.originalmy.com
 
@@ -261,7 +257,7 @@ Exemplo de retorno:
 Verificação do status do registro
 ---------------------------------
 
-Method: **GET**
+Method: GET
 
 Endpoint: http://testnet.originalmy.com/api/v1/status
 
@@ -308,7 +304,7 @@ Usuarios
 Pré-cadastro de usuários
 ------------------------
 
-Method: **POST**
+Method: POST
 
 Endpoint: https://signcontracts-mobile-api-stag.herokuapp.com/users/register
 
@@ -360,7 +356,7 @@ Exemplo de retorno:
 Verificar a identidade blockchain atual de um usuário
 -----------------------------------------------------
 
-Method: **GET**
+Method: GET
 
 Endpoint: https://signcontracts-mobile-api-stag.herokuapp.com/idRepo/getWallet/:cpf/wallet
 
@@ -381,7 +377,7 @@ Exemplo de retorno:
 Verificar todas as identidades blockchain anteriores
 ----------------------------------------------------
 
-Method: **GET**
+Method: GET
 
 Endpoint: https://signcontracts-mobile-api-stag.herokuapp.com/idRepo/getWallet/:cpf/wallets
 
@@ -406,7 +402,4 @@ Exemplo de retorno:
   "12WRUyfsQ7V1hAhG9ZJ7xd82EoEq1CKHXr",
   "mhaixA4V3AP2cgiJTKeyuBNihT4pRrTVSo"
   ]
-  
-:: _Bitcoin: https://www.blocktrail.com/tBTC
-:: _Ethereum: https://rinkeby.etherscan.io
-:: _Decred: https://testnet.decred.org
+
