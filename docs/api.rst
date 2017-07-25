@@ -5,6 +5,12 @@ Documentação de API para registro de documentos e integração com o APP de As
 
 Todos os registros de teste acontecem nas Testnets públicas dos blockchains, todas as transações e endereços de wallet podem ser verificados na testnet de cada uma das redes.
 
+Bitcoin_
+
+Ethereum_
+
+Decred_
+
 O APP Android de exemplo pode ser baixado em https://s3-sa-east-1.amazonaws.com/originalmy-app-staging/originalmy-app-testnet.apk
 
 Contratos podem ser lançados também diretamente na plataforma online: http://originalmy-staging.appspot.com/contratos utilizando o voucher 23N9-6WCR-SEMV na tela de pagamento
@@ -12,6 +18,10 @@ Contratos podem ser lançados também diretamente na plataforma online: http://o
 Caso não tenha uma Chave de Acesso para uso da API, solicite através do email: contato@originalmy.com
 
 Esta documentação pode ser encontrada online, inclusive com testes na live testnet neste link: https://signcontracts-mobile-api-stag.herokuapp.com/docs/
+
+.. _Bitcoin: https://blocktrail.com/tBTC
+.. _Ethereum: https://etherscan.io
+.. _Decred: https://testnet.decred.org
 
 
 =========
@@ -402,4 +412,3 @@ Exemplo de retorno:
   "12WRUyfsQ7V1hAhG9ZJ7xd82EoEq1CKHXr",
   "mhaixA4V3AP2cgiJTKeyuBNihT4pRrTVSo"
   ]
-
