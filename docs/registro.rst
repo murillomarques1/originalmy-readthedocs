@@ -16,7 +16,7 @@ O arquivo que será registrado, não poderá sofrer alterações posteriores, se
 Registro
 --------
 
-- Acesse o site: originalmy.com e clique em Login_
+- Acesse o site: originalmy.com e clique em Login
   
 .. image:: images/login.jpg  
   
@@ -30,7 +30,7 @@ Registro
 
 .. image:: images/documento_nao_certificado.jpg
 
-.. image:: images/assinatura_aigital.jpg
+.. image:: images/assinatura_digital.jpg
 
 
 - Pague o registro do documento. O pagamento pode ser por Bitcoin ou via PagSeguro. Assim que o pagamento for confirmado, o documento será enviado para registro no Blockchain
