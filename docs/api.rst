@@ -407,6 +407,6 @@ Exemplo de retorno:
   "mhaixA4V3AP2cgiJTKeyuBNihT4pRrTVSo"
   ]
   
-  :: _Bitcoin: https://www.blocktrail.com/tBTC
-  :: _Ethereum: https://rinkeby.etherscan.io
-  :: _Decred: https://testnet.decred.org
+:: _Bitcoin: https://www.blocktrail.com/tBTC
+:: _Ethereum: https://rinkeby.etherscan.io
+:: _Decred: https://testnet.decred.org
