@@ -13,8 +13,8 @@ O arquivo que será registrado, não poderá sofrer alterações posteriores, se
 
 **Para sua segurança e privacidade, o documento não é armazenado pela OriginalMy**
 
-Registro
---------
+Criando o BitRegistro
+---------------------
 
 - Acesse o site: originalmy.com e clique em Login
   
@@ -45,8 +45,8 @@ Registro
 .. image:: images/timestamp.jpg
 
 
-Verificar Registro
-------------------
+Verificando o BitRegistro
+-------------------------
 
 A consulta de qualquer documento na plataforma pode ser realizada de forma gratuita, quantas vezes desejar e em qualquer momento.
 
@@ -63,5 +63,7 @@ Para efetuar a consulta, é necessário ter a posse do documento que foi registr
 
 
 Assim que o arquivo é submetido à plataforma, a assinatura digital é recalculada e caso o documento no tenha sofrido nenhuma alteração, é apresentado o status atual do documento: documento não certificado, aguardando confirmação ou documento registrado.
+
+Após o registro, todas as informações relativas ao documento aparecerão na tela.
 
 
