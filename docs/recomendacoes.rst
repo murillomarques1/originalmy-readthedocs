@@ -5,7 +5,7 @@ Recomendações
 Contratos
 =========
 
-Este manual foi elaborado com o intuito de orientar os usuarios que pretendem utilizar o aplicativo fornecido pela OriginalMy para formalização de contratos.
+Este manual foi elaborado com o intuito de orientar os usuários que pretendem utilizar o aplicativo fornecido pela OriginalMy para formalização de contratos.
 
 .. warning:: O conteúdo é meramente informativo e não dispensa a consulta a um advogado.
 
