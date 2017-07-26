@@ -37,9 +37,9 @@ Para encontrar a identidade blockchain, basta seguir os passos:
 Cláusula Final
 --------------
 
-Insira uma cláusula final indicando a MP 2200-2/2001 que valida o modelo de assinatura e dispensa a utilização de um certificado ICP-Brasil: ::
+Insira uma cláusula final indicando a MP 2200-2/2001 que valida o modelo de assinatura e dispensa a utilização de um certificado ICP-Brasil:
 
- **Cláusula XX:** As Partes declaram e concordam que o presente instrumento, incluindo todas as páginas de assinatura e eventuais anexos, todas formadas por meio digital com o qual expressamente declaram concordar, representam a integralidade dos termos entre elas acordados, substituindo quaisquer outros acordos anteriores formalizados por qualquer outro meio, verbal ou escrito, físico ou digital, nos termos do art. 219 e 220 do Código Civil.
+.. note:: **Cláusula XX:** As Partes declaram e concordam que o presente instrumento, incluindo todas as páginas de assinatura e eventuais anexos, todas formadas por meio digital com o qual expressamente declaram concordar, representam a integralidade dos termos entre elas acordados, substituindo quaisquer outros acordos anteriores formalizados por qualquer outro meio, verbal ou escrito, físico ou digital, nos termos do art. 219 e 220 do Código Civil.
  
  Adicionalmente, nos termos do art. 10, § 2º, da Medida Provisória nº 2.200-2, as Partes expressamente concordam em utilizar e reconhecem como válida qualquer forma de comprovação de anuência aos termos ora acordados em formato eletrônico, ainda que não utilizem de certificado digital emitido no padrão  ICP-Brasil, incluindo assinaturas eletrônicas na plataforma OriginalMy (www.originalmy.com). A formalização das avenças na maneira supra acordada será suficiente para a validade e integral vinculação das partes ao presente Contrato.
   
