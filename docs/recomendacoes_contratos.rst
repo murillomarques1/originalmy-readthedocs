@@ -9,9 +9,14 @@ Este manual foi elaborado com o intuito de orientar os usuarios que pretendem ut
 
 .. warning:: O conteúdo é meramente informativo e não dispensa a consulta a um advogado.
 
+Recomendamos apenas duas alterações em seu contrato tradicional: 
+
+1. Inserção da identidade blockchain e 
+2. Inclusão de uma cláusula no final do contrato reforçando a conformidade com a lei MP2200-2/2001. 
+
 Para ser possível inserir todas as informações recomendadas, é essencial que todos os signatários tenham tomado as seguintes ações:
 
-- Instalado no smartphone o aplicativo "Assinar Documentos" fornecido pela OriginalMy (disponível para os sistemas Android e iOS);
+- Instalado no smartphone o aplicativo **Assinar Documentos** fornecido pela OriginalMy (disponível para os sistemas Android e iOS);
 
 - Validado o cadastro fornecendo todas as informações requisitadas.
 
@@ -28,8 +33,8 @@ Para encontrar a identidade blockchain, basta seguir os passos:
 
 - Faça login no aplicativo Assinar Documentos;
 - Clique no menu no canto superior esquerdo;
-- Clique em "Meu Cadastro"
-- Toque na sequência de letras e números na frente do item "PubKey" que a sequência será copiada para a área de transferência;
+- Clique em **Meu Cadastro**
+- Toque na sequência de letras e números na frente do item **PubKey** que a sequência será copiada para a área de transferência;
 - Cole a informação copiada no local que preferir (e-mail, Whatsapp, Slack, etc.)
 
 .. image:: images/Identidade_blockchain.jpg
