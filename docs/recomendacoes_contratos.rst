@@ -3,7 +3,7 @@ Informações recomendadas para assinatura de contratos através do aplicativo "
 
 Este manual foi elaborado com o intuito de orientar os usuarios que pretendem utilizar o aplicativo fornecido pela OriginalMy para formalização de contratos.
 
-.. note:: O conteúdo é meramente informativo e não dispensa a consulta a um advogado.
+O conteúdo é meramente informativo e não dispensa a consulta a um advogado.
 
 Para ser possível inserir todas as informações recomendadas, é essencial que todos os signatários tenham tomado as seguintes ações:
 
