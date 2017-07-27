@@ -48,7 +48,7 @@ Insira uma cláusula final indicando a MP 2200-2/2001 que valida o modelo de ass
  
  Adicionalmente, nos termos do art. 10, § 2º, da Medida Provisória nº 2.200-2, as Partes expressamente concordam em utilizar e reconhecem como válida qualquer forma de comprovação de anuência aos termos ora acordados em formato eletrônico, ainda que não utilizem de certificado digital emitido no padrão  ICP-Brasil, incluindo assinaturas eletrônicas na plataforma OriginalMy (www.originalmy.com). A formalização das avenças na maneira supra acordada será suficiente para a validade e integral vinculação das partes ao presente Contrato.
   
-
+---
 
 ==========
 Documentos
