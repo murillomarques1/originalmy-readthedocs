@@ -48,3 +48,82 @@ Insira uma cláusula final indicando a MP 2200-2/2001 que valida o modelo de ass
  
  Adicionalmente, nos termos do art. 10, § 2º, da Medida Provisória nº 2.200-2, as Partes expressamente concordam em utilizar e reconhecem como válida qualquer forma de comprovação de anuência aos termos ora acordados em formato eletrônico, ainda que não utilizem de certificado digital emitido no padrão  ICP-Brasil, incluindo assinaturas eletrônicas na plataforma OriginalMy (www.originalmy.com). A formalização das avenças na maneira supra acordada será suficiente para a validade e integral vinculação das partes ao presente Contrato.
   
+
+
+==========
+Documentos
+==========
+
+Este documento foi elaborado para auxiliar os usuários a registrarem seus documentos de forma segura e permanente.
+
+Tipos de arquivos
+-----------------
+
+Pode ser feito o BitRegistro de qualquer arquivo digital na plataforma OriginalMy, sendo assim, arquivos de texto, imagens, fotos, desenhos, vídeos, sons, tudo o que for digital poderá ter a sua autenticidade registrada.
+
+Um BitRegistro, por exemplo, pode contemplar um arquivo digital independente do número de páginas ou do tamanho.
+
+Por que utilizar?
+-----------------
+
+O BitRegistro, ou registro de autenticidade em blockchain, é recomendado quando há intenção de comprovar:
+
+- autoria: de uma obra, projeto ou criação;
+
+- imutabilidade: de um ato, de um contrato ou acordo;
+
+- data do acontecimento: para que fique gravado o momento da ação que se quer registrar;
+
+- partes vinculadas: quem são as pessoas envolvidas na ação, projeto, acordo, etc.
+
+Quando fazer seu BitRegistro?
+-----------------------------
+
+O ideal é que seja registrada a versão final do documento, quando não houver mais qualquer alteração a ser feita.  
+
+Em caso de qualquer alteração, o documento ficará diferente do registrado anteriormente e será considerado como um novo documento. Por este motivo será necessário um novo BitRegistro para o mesmo.
+
+Sempre que possível, recomendamos que o arquivo seja convertido para  a extensão .pdf (para que não sofra alterações como salvamento automático), além de guardar várias cópias do arquivo em locais seguros, como: Dropbox, Google Drive, OneDrive, além de backups em HDs externos. 
+
+.. note:: Como o OriginalMy não armazena documentos ou o conteúdo dos seus documentos digitais, a guarda e backups dos documentos registrados é de responsabilidade do usuário da plataforma. Faça cópias e as distribua para todos os interessados que necessitarem verificar a autenticidade.
+
+.. note:: **Pode:** O arquivo pode ser copiado ou enviado para outras pessoas. O nome do documento pode ser alterado após o registro.
+
+ **Não pode:** Abrir e editar o documento após o registro. Não pode abrir o documento original em ferramentas que possuem salvamento automático sob o risco de ser alterado.
+ 
+Para conteúdo que contenha propriedade intelectual, é muito importante que o registro seja feito antes da publicação garantindo, assim, que o primeiro registro do conteúdo seja o do próprio autor. Em caso de disputa, poderá comprovar a precedência do seu material.
+ 
+O que registrar?
+----------------
+
+Há inúmeros casos de utilização do registro de autenticidade, vamos citar apenas alguns casos, que não se limitam às aplicações apresentadas.
+
+- Projetos acadêmicos: pesquisas científicas, trabalhos de conclusão de curso, monografias, dissertações de mestrado, teses de doutorado, material didático, metodologias de ensino;
+- Design: peças publicitárias, projetos, criações, propostas;
+- Artistas: letras, partituras, melodias, livros, fotos, certificados de autenticidade, roteiros;
+- Empreendedores: logos, marcas, projetos, invenções, ideias de negócio, produtos;
+- Empresas: contratos, acordos, propostas, termos de concordância, processo produtivo, cadeia produtiva, certificação de produtos, certificados de cursos, votações, atas, deliberações, prestação de contas, inventários, apólices, etc.
+ 
+.. warning:: O BitRegistro na OriginalMy não substitui o registro em instituições governamentais, quando previsto em lei.
+
+Como funciona?
+--------------
+
+Quando o documento é submetido à plataforma da OriginalMy, é calculada uma identidade única e exclusiva para aquele documento. Essa identidade única é chamada de Assinatura Digital ou Hash.
+
+Quando o hash do documento é registrado no Blockchain, ele é copiado em todos os computadores do mundo que estão ligados à rede a qual o blockchain pertence, dessa forma, o registro é multiplicado milhares de vezes, garantindo assim que ele nunca será apagado da rede.
+
+É seguro?
+---------
+
+Sim e de muitas formas diferentes:
+
+- Perenidade: Uma vez registrado, sempre será possível fazer a consulta do documento no blockchain, independente da existência da OriginalMy;
+- Imutabilidade: Qualquer alteração, por menor que seja, altera a identidade do documento e isso torna muito fácil a detecção de fraudes e alterações em contratos por exemplo;
+- Confidencialidade: em nenhum momento a OriginalMy tem acesso ao conteúdo do documento submetido à plataforma;
+- Legalidade: Toda a plataforma foi construída com embasamento legal para que os documentos registrados tenham força de prova. 
+
+
+
+
+
