@@ -1,6 +1,8 @@
 Contratos 
 =========
 
+Leia as recomendações para fortalecer a validade jurídica do seu contrato neste link: http://originalmy.readthedocs.io/pt_BR/latest/recomendacoes.html#
+
 =====================
 Registro de Contratos
 =====================
