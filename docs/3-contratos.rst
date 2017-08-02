@@ -25,8 +25,8 @@ Assinatura de contratos
 5. Coloque o PIN do documento
 6. Confirme a assinatura
 
-Como pegar o PIN do documento
------------------------------
+Como encontrar o PIN do documento
+---------------------------------
 
 Existem duas formas de conseguir o PIN do documento. 
 
