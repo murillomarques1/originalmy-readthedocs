@@ -14,6 +14,8 @@ Registro de Contratos
 
 .. note:: O documento somente será registrado no Blockchain após todos os signatários tiverem o app instalado e efetuado o cadastro completo e validado.
 
+.. image:: images/registro_contrato.jpg
+
 =======================
 Assinatura de contratos
 =======================
