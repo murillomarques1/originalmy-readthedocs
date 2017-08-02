@@ -1,13 +1,14 @@
 Apresentação
 ============
 
+Introdução
+----------
 
-
-**OriginalMy gera Provas de Autenticidade**, utilizando Blockchain como protoclo. 
+**OriginalMy.com gera Provas de Autenticidade**, utilizando Blockchain como protoclo. 
 
 Somos a primeira empresa brasileira a utilizar Blockchain como protocolo no Brasil, desde 2015, utilizando-o inicialmente para efetuar provas de autenticidade para documentos digitais.
 
-No seu lançamento, o OriginalMy registrava a autenticidade de documentos somente no blockchain da rede Bitcoin. Hoje a plataforma efetua os registros em 4 blockchain públicos e outros privados, sendo os mais relevantes:
+No seu lançamento, o OriginalMy registrava a autenticidade de documentos somente no blockchain da rede Bitcoin. Hoje a plataforma efetua os registros em 4 blockchains públicos e outros privados, sendo os mais relevantes:
 
 - Bitcoin: www.bitcoin.org
 - Ethereum: www.ethereum.org
@@ -23,9 +24,10 @@ Funcionalidades
 
 - Registro de Autenticidade
     Também conhecida como **BitRegistro** ou Prova de Autenticidade para Documentos Digitais.
-    Qualquer documento digital pode ter sua existência confirmada através de um carimbo de tempo fornecido por um blockchain público. Conteúdos como obras de arte, declarações, propostas, relatórios e qualquer outro tipo de documento. `Leia mais aqui`_ 
+    Qualquer documento digital pode ter sua existência comprovada através de um carimbo de tempo fornecido por um blockchain público. Conteúdos como obras de arte, declarações, propostas, relatórios e qualquer outro tipo de documento. `Leia mais aqui`_
 - Prova de Autenticidade para conteúdo Web
-    Utilizando um plugin para o Chrome, é possível registrar a autenticidade de documentos digitais diretamente de sites. Um uso frequente tem sido a coleta de provas para casos de calúnia e difamação em redes sociais.
+    Utilizando um plugin para o Chrome, é possível registrar a autenticidade de conteúdo de sites, comprovando que eles estavam online em certo momento. 
+    Um uso frequente tem sido a coleta de provas para casos de calúnia e difamação em redes sociais.
 - Assinatura de Contratos
     Desenvolvemos um app para assinatura de contratos, que vai muito além na parte de segurança. 
     Você pode registrar o contrato através do link: https://originalmy.com/contratos. 
@@ -33,8 +35,7 @@ Funcionalidades
 - Identidade Blockchain
     Através do nosso app, nós fazemos a validação de identidade dos nossos usuários. Após o cadastro completo, o sistema cria uma Identidade Blockchain que fica em posse do usuário. Através dessa identidade única e exclusiva, o usuário pode efetuar ações na plataforma, como assinatura de contratos pelo app ou através do site, por exemplo.
     
-
-.. Leia mais aqui: http://originalmy.readthedocs.io/pt_BR/latest/recomendacoes.html#tipos-de-arquivos
+.. _Leia mais aqui:: http://originalmy.readthedocs.io/pt_BR/latest/recomendacoes.html#tipos-de-arquivos
 
 Links importantes:
 -------
