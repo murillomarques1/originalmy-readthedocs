@@ -27,6 +27,9 @@ Assinatura de contratos
 5. Coloque o PIN do documento
 6. Confirme a assinatura
 
+.. image:: images/assinar_contrato1.jpg
+.. image:: images/assinar_contrato2.jpg
+
 Como encontrar o PIN do documento
 ---------------------------------
 
