@@ -1,7 +1,7 @@
 Contratos - Registro e Assinatura
 =========
 
-Leia as recomendações para **reforçar a validade jurídica** do seu contrato neste link: http://originalmy.readthedocs.io/pt_BR/latest/recomendacoes.html
+Leia as recomendações para **reforçar a validade jurídica** do seu contrato neste link: http://originalmy.readthedocs.io/pt_BR/latest/6-recomendacoes.html#recomendacoes
 
 =====================
 Registro de Contratos
@@ -48,5 +48,14 @@ O OriginalMy possui 4 níveis de segurança para a assinatura de contratos:
 2) Usuário e senha
 3) Chave privada em posse do usuário (através da seed com 12 palavras em português)
 4) Prova de Posse do documento
+
+.. note:: o OriginalMy **nunca** entrará em contato para solicitar as 12 palavras fornecidas no cadastro
+  Lembre-se que essas 12 palavras restauram a sua Identidade Blockchain.
+  Anote-as em um papel e guarde-as em local seguro.
+  
+.. note:: Para assinar documentos através do browser, será necessário entrar com as 12 palavras fornecidas no cadastro.
+  Depois disso o sistema fornecerá uma opção para baixar um arquivo que facilitará o processo nas próximas vezes. Armazene este arquivo em um local seguro.
+  
+.. warning:: **NUNCA** entregue as 12 palavras ou o arquivo baixado para qualquer pessoa. Eles representam a sua identidade blockchain.
 
 
