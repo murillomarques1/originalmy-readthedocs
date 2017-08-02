@@ -20,7 +20,7 @@ Registro de Contratos
 Assinatura de contratos
 =======================
 
-1. Baixe o app Assinar Documento para Android ou Ios.
+1. Baixe o app Assinar Documento para Android ou iOS, nas lojas de aplicativo de cada aparelho.
 2. Efetue o cadastro completo
 3. Entre no Menu -> Assinar Documentos
 4. Clique em Assinar no documento que deseja assinar
@@ -62,7 +62,7 @@ Exemplo de conjunto de palavas. **Anote-as em um papel**. O sistema solicitará 
 
 .. image:: images/exemplo_seed.jpg
 
-.. note:: o OriginalMy **nunca** entrará em contato para solicitar as 12 palavras fornecidas no cadastro
+.. note:: O OriginalMy **nunca** entrará em contato para solicitar as 12 palavras fornecidas no cadastro
   Lembre-se que essas 12 palavras restauram a sua Identidade Blockchain.
   Anote-as em um papel e guarde-as em local seguro.
   
