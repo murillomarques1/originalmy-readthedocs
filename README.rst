@@ -1,41 +1,60 @@
-Template
-========
+0 - Apresentação
+================
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
 
-Look how easy it is to use:
 
-    import project
-    # Get your stuff done
-    project.do_stuff()
+**OriginalMy gera Provas de Autenticidade**, utilizando Blockchain como protoclo. 
 
-Features
---------
+Somos a primeira empresa brasileira a utilizar Blockchain como protocolo no Brasil, desde 2015, utilizando-o inicialmente para efetuar provas de autenticidade para documentos digitais.
 
-- Be awesome
-- Make things faster
+No seu lançamento, o OriginalMy registrava a autenticidade de documentos somente no blockchain da rede Bitcoin. Hoje a plataforma efetua os registros em 4 blockchain públicos e outros privados, sendo os mais relevantes:
 
-Installation
-------------
+- Bitcoin: www.bitcoin.org
+- Ethereum: www.ethereum.org
+- Ethereum Classic: www.ethereumclassic.org
+- Decred: www.decred.org
 
-Install $project by running:
+Desta maneira, a plataforma se mostra bastante flexível inclusive na precificação, efetuando os registros de acordo com a necessidade dos clientes que fazem integração com nosso ambiente de APIs.
 
-    install project
+O mais importante para nossos clientes é o fato de que eles não precisem conhecer profundamente detalhes sobre o Blockchain ou sobre os blockchains existentes para desenvolver seus produtos ou integrações, deixando essa complexidade para a nossa equipe altamente especializada e se preocupando com o *core* dos seu modelo de negócio.
 
-Contribute
-----------
+Funcionalidades
+---------------
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+- Registro de Autenticidade
+    Também conhecida como **BitRegistro** ou Prova de Autenticidade para Documentos Digitais.
+    Qualquer documento digital pode ter sua existência confirmada através de um carimbo de tempo fornecido por um blockchain público. Conteúdos como obras de arte, declarações, propostas, relatórios e qualquer outro tipo de documento. `Leia mais aqui`_ 
+- Prova de Autenticidade para conteúdo Web
+    Utilizando um plugin para o Chrome, é possível registrar a autenticidade de documentos digitais diretamente de sites. Um uso frequente tem sido a coleta de provas para casos de calúnia e difamação em redes sociais.
+- Assinatura de Contratos
+    Desenvolvemos um app para assinatura de contratos, que vai muito além na parte de segurança. 
+    Você pode registrar o contrato através do link: https://originalmy.com/contratos. 
+    Tão logo o contratos esteja registrado e autenticado no Blockchain, juntamente com os signatários, aparecerá no app de cada signatário que há um documento disponível para ser assinado.
+- Identidade Blockchain
+    Através do nosso app, nós fazemos a validação de identidade dos nossos usuários. Após o cadastro completo, o sistema cria uma Identidade Blockchain que fica em posse do usuário. Através dessa identidade única e exclusiva, o usuário pode efetuar ações na plataforma, como assinatura de contratos pelo app ou através do site, por exemplo.
+    
 
-Support
+.. Leia mais aqui: http://originalmy.readthedocs.io/pt_BR/latest/recomendacoes.html#tipos-de-arquivos
+
+Links importantes:
 -------
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+Acesse:
 
-License
+- https://originalmy.com para registrar a autenticidade de documentos digitais
+- https://originalmy.com/contratos para registrar contratos e documentos que necessitem de assinatura
+- https://originalmy.com/voucher para adquirir cupons com desconto para a aquisição de diversos registros
+
+
+Contato
 -------
 
-The project is licensed under the BSD license.
+Você pode entrar em contato com nosso suporte multicanal, através das plataformas:
+
+- Email: contato@originalmy.com
+- Facebook: https://fb.com/originalmycom
+- Twitter: https://twitter.com/originalmycom
+- LinkedIn: https://www.linkedin.com/company/originalmy-com
+- Youtube: https://www.youtube.com/c/originalmyoficial
+- Telegram: https://telegram.me/originalmy
+- GitHub: https://github.com/originalmy
