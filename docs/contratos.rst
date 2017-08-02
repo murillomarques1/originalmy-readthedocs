@@ -32,12 +32,12 @@ Existem duas formas de conseguir o PIN do documento.
 
 .. note:: O PIN é necessário para a PROVA DE POSSE do documento.
 
-  * Forma 1:
-    Entre em OriginalMy.com, submeta o documento e veja o PIN do contrato
-    
-  * Forma 2:
-    No app, abra o documento PDF selecionando o aplicativo Assinar Documentos para abrí-lo. 
-    Dessa forma o App comprovará que o documento é original e está pronto para ser assinado pelo usuário. 
+* Forma 1:
+  Entre em OriginalMy.com, submeta o documento e veja o PIN do contrato
+
+* Forma 2:
+  No app, abra o documento PDF selecionando o aplicativo Assinar Documentos para abrí-lo. 
+  Dessa forma o App comprovará que o documento é original e está pronto para ser assinado pelo usuário. 
     
 Controles de Segurança para a Assinatura de Contratos
 -----------------------------------------------------
