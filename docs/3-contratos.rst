@@ -15,6 +15,7 @@ Registro de Contratos
 .. note:: O documento somente será registrado no Blockchain após todos os signatários tiverem o app instalado e efetuado o cadastro completo e validado.
 
 .. image:: images/registro_contrato.jpg
+  :scale: 50%
 
 =======================
 Assinatura de contratos
@@ -28,7 +29,9 @@ Assinatura de contratos
 6. Confirme a assinatura
 
 .. image:: images/assinar_contrato1.jpg
+  :scale: 50%
 .. image:: images/assinar_contrato2.jpg
+  :scale: 50%
 
 Como encontrar o PIN do documento
 ---------------------------------
@@ -40,12 +43,14 @@ Existem duas formas de conseguir o PIN do documento.
 * Forma 1:
   Entre em OriginalMy.com, submeta o documento e veja o PIN do contrato
 .. image:: images/pin1.jpg
+  :scale: 50%
 
 
 * Forma 2:
   No app, abra o documento PDF selecionando o aplicativo Assinar Documentos para abrí-lo. 
   Dessa forma o App comprovará que o documento é original e está pronto para ser assinado pelo usuário. 
 .. image:: images/pin2.jpg
+  :scale: 50%
 
     
 Controles de Segurança para a Assinatura de Contratos
@@ -61,6 +66,7 @@ O OriginalMy possui 4 níveis de segurança para a assinatura de contratos:
 Exemplo de conjunto de palavas. **Anote-as em um papel**. O sistema solicitará as palavras para ter certeza de que o usuário a armazenou.
 
 .. image:: images/exemplo_seed.jpg
+  :scale: 50%
 
 .. note:: O OriginalMy **nunca** entrará em contato para solicitar as 12 palavras fornecidas no cadastro
   Lembre-se que essas 12 palavras restauram a sua Identidade Blockchain.
