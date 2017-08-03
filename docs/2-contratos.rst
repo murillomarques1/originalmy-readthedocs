@@ -12,7 +12,7 @@ Registro de Contratos
 3. Coloque um apelido para o contrato (esse apelido irá aparecer no app)
 4. Submeta o documento final do contrato (PDF)
 
-.. note:: O documento somente será registrado no Blockchain após todos os signatários tiverem o app instalado e efetuado o cadastro completo e validado.
+.. note:: O documento somente será registrado no Blockchain após todos os signatários tiverem instalado o app e completado o cadastro.
 
 .. image:: images/registro_contrato.jpg
   :scale: 50%
@@ -40,15 +40,17 @@ Existem duas formas de conseguir o PIN do documento.
 
 .. note:: O PIN é necessário para a PROVA DE POSSE do documento.
 
-* Forma 1:
+* **Forma 1:**
   Entre em OriginalMy.com, submeta o documento e veja o PIN do contrato
+
 .. image:: images/pin1.jpg
   :scale: 50%
 
 
-* Forma 2:
+* **Forma 2:**
   No app, abra o documento PDF selecionando o aplicativo Assinar Documentos para abrí-lo. 
   Dessa forma o App comprovará que o documento é original e está pronto para ser assinado pelo usuário. 
+
 .. image:: images/pin2.jpg
   :scale: 50%
 
@@ -59,8 +61,13 @@ Controles de Segurança para a Assinatura de Contratos
 O OriginalMy possui 4 níveis de segurança para a assinatura de contratos:
 
 1) Cadastro completo através do app (KYC completo com validação do CPF em bases públicas)
+
+.. note:: KYC significa Know Your Customer, ou Conheça Seu Cliente em português. São técnicas para identificar o usuário quando o uso da ferramenta é crítico e precisa ser aderente às regulações vigentes.
+
 2) Usuário e senha
+
 3) Chave privada em posse do usuário (através da um conjunto com 12 palavras em português)
+
 4) Prova de Posse do documento
 
 Exemplo de conjunto de palavas. **Anote-as em um papel**. O sistema solicitará as palavras para ter certeza de que o usuário a armazenou.
