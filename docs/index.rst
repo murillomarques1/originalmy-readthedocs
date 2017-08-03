@@ -9,7 +9,7 @@ Bem vindo ao Manual de Uso e Funcionalidades OriginalMy!
 Conteúdo:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :glob:
 
    *
