@@ -17,7 +17,7 @@ No seu lançamento, o OriginalMy registrava a autenticidade de documentos soment
 
 Desta maneira, a plataforma se mostra bastante flexível inclusive na precificação, efetuando os registros de acordo com a necessidade dos clientes que fazem integração com nosso ambiente de APIs.
 
-O mais importante para nossos clientes é o fato de que eles não precisem conhecer profundamente detalhes sobre o Blockchain ou sobre os blockchains existentes para desenvolver seus produtos ou integrações, deixando essa complexidade para a nossa equipe altamente especializada e se preocupando com o *core* dos seu modelo de negócio.
+O mais importante para nossos clientes é o fato de que eles não precisem conhecer profundamente detalhes sobre o Blockchain ou sobre os blockchains existentes para desenvolver seus produtos ou integrações, deixando essa complexidade para a nossa equipe altamente especializada e se preocupando com o *core* do seu modelo de negócio.
 
 Funcionalidades
 ---------------
@@ -31,11 +31,11 @@ Funcionalidades
 - Assinatura de Contratos
     Desenvolvemos um app para assinatura de contratos, que vai muito além na parte de segurança. 
     Você pode registrar o contrato através do link: https://originalmy.com/contratos. 
-    Tão logo o contratos esteja registrado e autenticado no Blockchain, juntamente com os signatários, aparecerá no app de cada signatário que há um documento disponível para ser assinado.
+    Tão logo o contrato esteja registrado e autenticado no Blockchain juntamente com os signatários, aparecerá no app de cada signatário que há um documento disponível para ser assinado.
 - Identidade Blockchain
     Através do nosso app, nós fazemos a validação de identidade dos nossos usuários. Após o cadastro completo, o sistema cria uma Identidade Blockchain que fica em posse do usuário. Através dessa identidade única e exclusiva, o usuário pode efetuar ações na plataforma, como assinatura de contratos pelo app ou através do site, por exemplo.
     
-.. _Leia mais aqui:: http://originalmy.readthedocs.io/pt_BR/latest/recomendacoes.html#tipos-de-arquivos
+.. _Leia mais aqui: http://originalmy.readthedocs.io/pt_BR/latest/recomendacoes.html#tipos-de-arquivos
 
 Links importantes
 -------
@@ -43,7 +43,7 @@ Links importantes
 Acesse:
 
 - https://originalmy.com para registrar a autenticidade de documentos digitais
-- https://originalmy.com/contratos para registrar contratos e documentos que necessitem de assinatura
+- https://originalmy.com/contratos para registrar e assinar contratos e documentos que necessitem de assinatura
 - https://originalmy.com/voucher para adquirir cupons com desconto para a aquisição de diversos registros
 
 
