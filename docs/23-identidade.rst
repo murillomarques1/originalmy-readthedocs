@@ -1,1 +1,71 @@
+Identidade Blockchain
+=====================
 
+=====
+Sobre
+=====
+
+Através do nosso app, a plataforma faz a identificação completa do usuário. Isso é necessário para gerar mais segurança jurídica em ações que normalmente são reguladas.
+
+Por isso optamos por colocar um nível de segurança a mais, relacionado à identidade dos nossos usuários. 
+
+Neste primeiro momento, com esta identidade o usuário poderá assinar contratos, inclusive através do site, por exemplo. Mas estamos expandindo os usos para coisas interessantes como efetuar login em sites sem precisar colocar senha e até a possibilidade de se registrar em sites sem a necessidade de preencher longos formulários.
+
+Estes tipos de funcionalidades só são possíveis quando há a validação de identidade de maneira adequada.
+
+=============
+Como funciona
+=============
+
+No momento em que o usuário faz seu cadastro através do app, ele passa por diversas validações automáticas e manuais. Isso acontece em três etapas:
+
+1) Cadastro pelo app e envio de informações
+-------------------------------------------
+
+a) Criação de usuário e senha
+b) Validação do email
+c) Validação do aparelho celular
+d) Validação do CPF em redes públicas
+e) Foto selfie do rosto do usuário, feito diretamente com o app
+f) Foto do documento, de maneira que seja possível identificar tanto o usuário como o número do documento de identificação
+g) Criação de uma **Identidade Blockchain** que fica armazenada apenas no celular do usuário
+
+2) Pesquisa automática em redes públicas
+----------------------------------------
+
+Após a criação da conta e criação da identidade blockchain, os sistema faz uma busca em redes públicas para efetuar a validação do CPF.
+
+3) Validação manual por um ser humano
+-------------------------------------
+
+Depois que essa busca estiver finalizada, o sistema envia automaticamente as informações para validação manual dos dados, fotos e demais informações. Nesta etapa, caso seja detectado algum tipo de inconsistência nas informações, o cadastro é bloqueado e o usuário só poderá continuar o uso após fornecer algumas informações e passar por nova análise.
+
+================
+Troca de celular
+================
+
+Em caso de troca de celular, reinstalação do app ou login em um novo celular, o sistema detectará automaticamente a troca e solicitará uma nova validação nos dados.
+
+====================================
+Recuperação da identidade blockchain
+====================================
+
+Em caso de troca de celular, reinstalação do app ou login em um novo celular, mesmo o sistema solicitando novamente a validação dos dados, ele fornecerá uma oportunidade para recuperar a identidade blockchain fornecida anteriormente.
+
+Então ele solicitará o conjunto de 12 palavras (que o usuário anotou em um papel e guardou em local seguro no momento do primeiro cadastro). Se o usuário colocar as 12 palavras corretas, o sistema fará a restauração da identidade.
+
+Caso o usuário não tenha as palavras ou erre muitas vezes, então o sistema efetuará o processo de criação de uma nova identidade, como efetuado no processo de cadastro.
+
+Ainda será possível verificar todos os contratos assinados com as identidades anteriores.
+
+.. warning:: Em caso de troca de identidade blockchain, os contratos pendentes de assinatura deverão ser registrados novamente na plataforma.
+
+**Em caso de troca de identidade blockchain, os contratos pendentes de assinatura deverão ser registrados novamente na plataforma**. Isso acontece porque o blockchain aguarda a assinatura através da identidade blockchain anterior e, por ser uma rede imutável, não é possível alterar as informações que já foram registradas e confirmadas na rede.
+
+=============
+Recomendações
+=============
+
+Recomendamos o uso da identidade blockchain na qualificação das partes, em contratos. Leia mais aqui: http://docs.originalmy.com/pt_BR/latest/80-recomendacoes.html#contratos
+
+.. note:: Lembre-se de sempre armazenar as 12 palavras em local seguro e nunca as compartilhe com ninguém
