@@ -133,8 +133,12 @@ Como verificar
 .. note:: A existência dessa transação no Blockchain prova que o documento existiu no momento da transação e foi incluída junto ao bloco
 
 
-==================
-Outras informações
-==================
+============
+Curiosidades
+============
 
 .. note:: O registro e assinatura de contratos acontece somente na rede Ethereum Classic
+
+.. note:: A cada novo cadastro, com email validado, o usuário do OriginalMy ganha um voucher com *registros free*, que acontece somente na rede Decred.
+
+.. note:: O registro na rede Decred faz uso de uma rede centralizada, porém aberta e pública. É centralizada porque precisa agrupar os registros em um certo período de tempo.
