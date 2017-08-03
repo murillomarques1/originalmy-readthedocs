@@ -116,7 +116,7 @@ Ele funciona da seguinte maneira:
 
 - No espaço de uma hora, o sistema acumula todos as assinaturas digitais registradas
 - De hora em hora ele agrupa todos os registros naquele intervalo e calcula uma assinatura digital para o bloco, que  chamada de merkle tree.
-- A assinatura digital (merkle tree) do bloco é registrada no blockchain
+- A assinatura digital (merkle tree) do bloco de assinaturas digitais é registrada no blockchain
 
 
 Como verificar
