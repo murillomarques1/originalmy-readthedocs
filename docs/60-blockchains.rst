@@ -130,8 +130,6 @@ Como verificar
 
 * Encontre a linha OP_RETURN e confira o merkle tree fornecido.
 
-.. note:: A existência dessa transação no Blockchain prova que o documento existiu no momento da transação e foi incluída junto ao bloco
-
 
 ============
 Curiosidades
