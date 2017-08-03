@@ -123,7 +123,21 @@ Sim e de muitas formas diferentes:
 - Confidencialidade: em nenhum momento a OriginalMy tem acesso ao conteúdo do documento submetido à plataforma;
 - Legalidade: Toda a plataforma foi construída com embasamento legal para que os documentos registrados tenham força de prova. 
 
+=========
+Segurança
+=========
 
+1) Faça backups
+ Faça backups do documento original em diversos lugares. Compartilhe esses arquivos com todos os interessados
 
+.. note:: Você *pode* alterar o nome do documento. Você *não pode* abrir, alterar e/ou salvar o documento pois será considerado um documento diferente do registrado anteriormente
 
+2) Guarde o código da transação
+ O código da transação é o endereço onde você encontra o seu BitRegistro em cada um dos blockchains 
+ 
+3) Guarde a Assinatura Digital do seu documento
+
+4) Faça download do seu certificado digital e armazene-o na mesma pasta do documento
+
+.. warning:: O salvamento automático dos programas pode alterar internamente o documento, portanto utilize uma cópia caso queira visualizar seu conteúdo. Em caso de alteração no documento é necessário um novo registro. Este registro é válido apenas para o original, sem alterações. Qualquer alteração no original invalida a identificação da assinatura digital, pois o mesmo deixa de ser o documento registrado
 
