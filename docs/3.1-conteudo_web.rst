@@ -18,7 +18,7 @@ Também chamado de **BitRegistro**, essa prova legal de autenticidade protege cr
 Seus principais usos tem sido garantir validade a contratos digitais e documentos com propriedade intelectual, mas também pode ajudar a comprovar a precedência e uso de marcas e muitas outras coisas.
 
 ================
-INSTALAÇÃO E USO
+Instalação e Uso
 ================
 
 Instale a extensão utilizando a webstore do Chrome ou clique neste link: https://chrome.google.com/webstore/detail/originalmy-prova-de-auten/lipchhllklhmehlnknonpkjgaolabkfd
