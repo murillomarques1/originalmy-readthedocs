@@ -54,7 +54,7 @@ Recomendamos inserir uma cláusula ao final do documento, indicando a MP 2200-2/
 Documentos
 ==========
 
-Este documento foi elaborado para auxiliar os usuários a registrarem seus documentos de forma segura e permanente.
+Este documento foi elaborado para auxiliar os usuários a registrarem a autenticidade de seus documentos de forma segura e permanente.
 
 Tipos de arquivos
 -----------------
