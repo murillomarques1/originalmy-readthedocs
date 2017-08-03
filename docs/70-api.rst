@@ -1,7 +1,7 @@
 API
 ===
 
-.. success:: Esta documentação pode ser encontrada online, inclusive com testes na live testnet neste link: https://signcontracts-mobile-api-stag.herokuapp.com/docs/
+.. note:: Esta documentação pode ser encontrada online, inclusive com testes na live testnet neste link: https://signcontracts-mobile-api-stag.herokuapp.com/docs/
 
 Documentação de API para registro de documentos e integração com o APP de Assinatura de Contratos em Blockchain OriginalMy.com
 
