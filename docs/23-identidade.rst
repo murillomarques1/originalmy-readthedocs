@@ -11,7 +11,7 @@ Por isso optamos por colocar um nível de segurança a mais, relacionado à iden
 
 Neste primeiro momento, com esta identidade o usuário poderá assinar contratos, inclusive através do site, por exemplo. Mas estamos expandindo os usos para coisas interessantes como efetuar login em sites sem precisar colocar senha e até a possibilidade de se registrar em sites sem a necessidade de preencher longos formulários.
 
-Estes tipos de funcionalidades só são possíveis quando há a validação de identidade de maneira adequada.
+Estes tipos de funcionalidades são possíveis apenas quando há a validação de identidade de maneira adequada.
 
 =============
 Como funciona
@@ -19,8 +19,8 @@ Como funciona
 
 No momento em que o usuário faz seu cadastro através do app, ele passa por diversas validações automáticas e manuais. Isso acontece em três etapas:
 
-1) Cadastro pelo app e envio de informações
--------------------------------------------
+1) Cadastro pelo app e validações preliminares
+----------------------------------------------
 
 a) Criação de usuário e senha
 b) Validação do email
@@ -28,17 +28,35 @@ c) Validação do aparelho celular
 d) Validação do CPF em redes públicas
 e) Foto selfie do rosto do usuário, feito diretamente com o app
 f) Foto do documento, de maneira que seja possível identificar tanto o usuário como o número do documento de identificação
-g) Criação de uma **Identidade Blockchain** que fica armazenada apenas no celular do usuário
+g) Criação de uma **Identidade Blockchain**, cuja parte privada fica armazenada apenas no celular do usuário, sem contato com nossos sistemas ou outras pessoas. A informação pública é enviada para os nossos servidores para validação.
+
+.. note:: Os nossos sistemas, funcionários ou colaboradores nunca terão contato com as palavras utilizadas para gerar a sua identidade blockchain. Somente o usuário que a criou tem conhecimento sobre ela.
+
+.. note:: A sua identidade blockchain fica associada ao seu número de CPF publicamente em um blockchain, permitindo a verificação 24 horas por dia, 7 dias por semana.
+
+.. warning:: NUNCA entregue as 12 palavras para qualquer pessoa. Eles representam a sua identidade blockchain.
 
 2) Pesquisa automática em redes públicas
 ----------------------------------------
 
-Após a criação da conta e criação da identidade blockchain, os sistema faz uma busca em redes públicas para efetuar a validação do CPF.
+Após a criação da conta e criação da identidade blockchain, o sistema faz uma busca em redes públicas para efetuar a validação do CPF.
 
 3) Validação manual por um ser humano
 -------------------------------------
 
-Depois que essa busca estiver finalizada, o sistema envia automaticamente as informações para validação manual dos dados, fotos e demais informações. Nesta etapa, caso seja detectado algum tipo de inconsistência nas informações, o cadastro é bloqueado e o usuário só poderá continuar o uso após fornecer algumas informações e passar por nova análise.
+Após a validação do CPF e outras informações em redes públicas, o sistema envia automaticamente as informações para validação manual dos dados, fotos e demais informações. Nesta etapa, caso seja detectado algum tipo de inconsistência nas informações, o cadastro é bloqueado e o usuário só poderá continuar o uso após fornecer algumas informações e passar por nova análise.
+
+=====================
+Identidade Blockchain
+=====================
+
+A identidade blockchain utiliza criptografia forte de última geração para ser criada.
+
+Essa identidade é composta de duas partes:
+
+  1) Parte privada: Conhecida como chave privada, fica armazenada somente no celular do usuário, criptografada, e pode ser recuperada à partir das 12 palavras fornecidas em caso de troca de celular, reinstalação, etc.
+  
+  2) Parte pública: Também conhecida como chave pública, endereço de wallet ou apenas identidade blockchain, é a identificação  pública e será armazenada no blockchain associada ao CPF do proprietário.
 
 ================
 Troca de celular
