@@ -1,5 +1,5 @@
-Registro de Autenticidade
-=========================
+BitRegistro - Registro de Autenticidade
+=======================================
 
 =================
 Registro Unitário
