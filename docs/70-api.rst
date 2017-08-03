@@ -1,6 +1,8 @@
 API
 ===
 
+.. success:: Esta documentação pode ser encontrada online, inclusive com testes na live testnet neste link: https://signcontracts-mobile-api-stag.herokuapp.com/docs/
+
 Documentação de API para registro de documentos e integração com o APP de Assinatura de Contratos em Blockchain OriginalMy.com
 
 Todos os registros de teste acontecem nas Testnets públicas dos blockchains, todas as transações e endereços de wallet podem ser verificados na testnet de cada uma das redes: Bitcoin_ - Ethereum_ - Decred_
@@ -11,7 +13,6 @@ Contratos podem ser lançados também diretamente na plataforma online: http://o
 
 Caso não tenha uma Chave de Acesso para uso da API, solicite através do email: contato@originalmy.com
 
-Esta documentação pode ser encontrada online, inclusive com testes na live testnet neste link: https://signcontracts-mobile-api-stag.herokuapp.com/docs/
 
 .. _Bitcoin: https://blocktrail.com/tBTC
 .. _Ethereum: https://etherscan.io
