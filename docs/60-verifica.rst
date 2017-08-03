@@ -1,5 +1,5 @@
-Verificando registros e Blockchains
-===================================
+Blockchains e verificação de registros
+======================================
 
 =========================================================
 Calcular manualmente a assinatura digital (*hash* SHA256)
