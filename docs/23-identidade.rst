@@ -68,4 +68,4 @@ Recomendações
 
 Recomendamos o uso da identidade blockchain na qualificação das partes, em contratos. Leia mais aqui: http://docs.originalmy.com/pt_BR/latest/80-recomendacoes.html#contratos
 
-.. note:: Lembre-se de sempre armazenar as 12 palavras em local seguro e nunca as compartilhe com ninguém
+.. note:: Lembre-se de sempre armazenar as 12 palavras em local seguro e nunca as compartilhe com qualquer pessoa.
