@@ -62,13 +62,13 @@ O OriginalMy possui 4 níveis de segurança para a assinatura de contratos:
 
 1) Cadastro completo através do app (KYC completo com validação do CPF em bases públicas)
 
-.. note:: KYC significa Know Your Customer, ou Conheça Seu Cliente em português. São técnicas para identificar o usuário quando o uso da ferramenta é crítico e precisa ser aderente às regulações vigentes.
-
 2) Usuário e senha
 
 3) Chave privada em posse do usuário (através da um conjunto com 12 palavras em português)
 
 4) Prova de Posse do documento
+
+.. note:: KYC significa Know Your Customer, ou Conheça Seu Cliente em português. São técnicas para identificar o usuário quando o uso da ferramenta é crítico e precisa ser aderente às regulações vigentes.
 
 Exemplo de conjunto de palavas. **Anote-as em um papel**. O sistema solicitará as palavras para ter certeza de que o usuário a armazenou.
 
