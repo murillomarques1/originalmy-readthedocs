@@ -286,21 +286,23 @@ Exemplo de retorno:
       "blockstamp": "2017-07-25 17:50:35",
       "transaction": "0x0e68819506081bcbd2c3d1af97be3e7d25906a0e854c56e8830f21e8e1fcfa82",
       "success": true,
-      "networks": {
-          "eth": {
-              "blockstamp": "2017-07-25 17:50:35",
-              "transaction": "0x0e68819506081bcbd2c3d1af97be3e7d25906a0e854c56e8830f21e8e1fcfa82",
-              "link": "https://rinkeby.etherscan.io/tx/0x0e68819506081bcbd2c3d1af97be3e7d25906a0e854c56e8830f21e8e1fcfa82",
-              "txstamp": "2017-07-25 17:50:10.070350"
-          },
-          "dcr": {
-              "merkle": "103f75b8e9f6d3d01f647815efc54417fe868d034a6921f18bded1f7cc6ddc7b",
-              "blockstamp": "2017-07-25 18:00:29",
-              "transaction": "c77e470973b976076bbca0263ad3780ca13ef6ee837660bdca98bb7fb7913383",
-              "link": "https://testnet.decred.org/tx/c77e470973b976076bbca0263ad3780ca13ef6ee837660bdca98bb7fb7913383",
-              "txstamp": "2017-07-25 17:00:00"
-          }
-      },
+      "networks": [
+        {
+            "blockstamp": "2017-07-19 23:09:42",
+            "transaction": "0x1e99d2d7a2038f1138b907f954a6fa2f9bd073a1ef22b678aa25e7a6c0ab2c0c",
+            "link": "https://rinkeby.etherscan.io/tx/0x1e99d2d7a2038f1138b907f954a6fa2f9bd073a1ef22b678aa25e7a6c0ab2c0c",
+            "name": "eth",
+            "txstamp": "2017-07-19 23:09:13.881940"
+        },
+        {
+            "blockstamp": "2017-07-20 00:01:14",
+            "transaction": "7a6d22a92028ec20826fbea44b3f8556dee5035c9c69ca12db7b0032bc4af105",
+            "name": "dcr",
+            "link": "https://testnet.decred.org/tx/7a6d22a92028ec20826fbea44b3f8556dee5035c9c69ca12db7b0032bc4af105",
+            "merkle": "b985a1f338c5299d1c5bd60e4818c214ce520a1da16e416dc8bca61a2e111451",
+            "txstamp": "2017-07-20 00:00:00"
+        }
+      ],
       "txstamp": "2017-07-25 17:50:10.070350"
   }
   
