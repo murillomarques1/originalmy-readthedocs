@@ -87,3 +87,7 @@ Sempre redimensione o browser para ajustar seu tamanho ao conteúdo que deseja r
 
 .. note:: Não tomamos conhecimento ou armazenamos informações referentes ao conteúdo do seu documento, somente da assinatura digital única e exclusiva que é calculada diretamente no seu browser.
   Portanto é responsabilidade do usuário salvar os documentos originais e outros arquivos em locais seguros para garantir a integridade, fazer backups dos mesmos e distribuí-los somente entre as partes interessadas.
+  
+Você pode encontrar este conteúdo no nosso blog: https://medium.com/@originalmy/originalmy-extensão-do-chrome-prova-de-autenticidade-na-web-como-usar-301793ac509
+
+Este aplicativo para o browser Chrome faz uma cópia do conteúdo que está sendo visualizado no browser e te fornece um relatório completo comprovando quando e onde esta informação estava disponível. Além disso ele já registra uma assinatura digital única e exclusiva que identificará esse documento em OriginalMy.com para fornecer uma prova de autenticidade com carimbo de tempo, confirmando o momento em que o conteúdo estava disponível.
