@@ -8,6 +8,7 @@ Termos de uso
 Estes Termos de Uso (“Termos de Uso”) estabelecem os termos e condições de acesso e uso do serviço de assinatura digital de contratos e/ou outros documentos eletrônicos oferecido por ORIGINALMY BLOCKCHAIN CERTIFICADORA DIGITAL LTDA., sociedade limitada com sede na cidade de São Paulo, Estado de São Paulo, na Av. João de Barros, nº 155 conj. 174 B, Socorro, CEP 04764-090, inscrita no CNPJ/MF nº 27.053.088/0001-66 (“OriginalMy”) (“Serviço”).
 
 1. OBJETO
+---------
 
   1.1 Estes Termos de Uso regulam o acesso e uso do Serviço pelo correspondente usuário (“Usuário”) quando o aplicativo de assinatura digital (“Aplicativo”) e/ou o website (“Website”) da OriginalMy e/ou outros softwares, serviços, plataformas, ferramentas, conteúdos e/ou recursos correlatos são instalados, acessados e/ou utilizados. 
   
@@ -28,6 +29,7 @@ Estes Termos de Uso (“Termos de Uso”) estabelecem os termos e condições de
   1.9  Certos serviços e conteúdos oferecidos com relação ao Serviço podem ser objeto de termos de uso específicos. Neste caso, os termos de uso específico podem substituir, complementar ou modificar estes Termos de Uso. No caso de conflito entre estes Termos de Uso e termos de uso específicos aplicáveis à prestação do Serviço, as condições especiais deverão prevalecer sobre as gerais. As condições especiais também deverão sempre ser lidas pelo Usuário. Outros avisos e comunicados poderão ser realizados ao longo da prestação do Serviço, os quais serão considerados condições especiais e prevalecerão sobre estes Termos de Uso.
 
 2. DISPONIBILIDADE DOS SERVIÇOS
+-------------------------------
 
   2.1 A OriginalMy envidará seus melhores esforços para assegurar e desenvolver a qualidade dos Serviços. 
   
@@ -36,6 +38,7 @@ Estes Termos de Uso (“Termos de Uso”) estabelecem os termos e condições de
   2.3  Para uso do Serviço, os Usuários deverão providenciar, por sua própria iniciativa e custo, acesso à Internet e telefones celulares compatíveis.
   
 3. RESPONSABILIDADES DO USUÁRIO PELO USO DOS SERVIÇOS
+-----------------------------------------------------
 
   3.1 Ao se cadastrar, o Usuário procederá à abertura de uma conta para sua identificação perante a OriginalMy (“Conta”). O Usuário deverá ser maior de idade e/ou emancipado, sendo que a responsabilidade por qualquer falsidade, inexatidão ou omissão de dados na abertura e manutenção da Conta é exclusivamente do Usuário.
   
@@ -68,12 +71,14 @@ Estes Termos de Uso (“Termos de Uso”) estabelecem os termos e condições de
   3.4 O Usuário se compromete a utilizar o Serviço de boa-fé e em conformidade com todos os preceitos legais, regulamentares e contratuais porventura aplicáveis, bem como com a ordem pública, a moral e os bons costumes e as normas de conduta geralmente aceitas. Qualquer violação a este item poderá sujeitar o Usuário à exclusão da lista de usuários do Serviço, sem prejuízo de outras sanções administrativas, civis e/ou penais eventualmente aplicáveis.
   
 4. SEGURANÇA E PRIVACIDADE DE DADOS E DOCUMENTOS
+------------------------------------------------
 
   4.1 A OriginalMy se obriga a, por meio de mecanismos físicos e tecnológicos, não divulgar os dados cadastrais dos Usuários e dos Signatários. Tais mecanismos atendem padrões razoáveis de cuidado, considerando-se as possibilidades técnicas e economicamente razoáveis da tecnologia aplicável à Internet, como o uso de firewall para proteção contra acessos indevidos. No entanto, a OriginalMy recomenda fortemente que os Usuários adotem medidas de segurança em seu celular, tais como a instalação de programa antivírus e de firewall contra invasões.
   
   4.2  Para a prestação do Serviço a OriginalMy adota níveis de segurança dentro dos requisitos legais para a proteção dos dados pessoais. Entretanto, é importante que o usuário tenha ciência de que pela própria natureza e características técnicas da Internet, essa proteção não é infalível e encontra-se sujeita à violação pelas mais diversas práticas maliciosas. Os tratamentos de dados pessoais conduzidos pela OriginalMy são regidos por sua política de privacidade. Os tratamentos de dados pessoais conduzidos pela OriginalMy para a prestação do Serviço são regidos por sua Política de Privacidade e Segurança de Dados.
   
 5. LIMITAÇÕES E EXCLUSÃO DE GARANTIAS E DE RESPONSABILIDADES
+------------------------------------------------------------
 
   5.1  Por razões técnicas e de operação, não é possível garantir a disponibilidade e continuidade das plataformas de prestação do Serviço, bem como evitar sua falibilidade. 
   
@@ -104,7 +109,9 @@ Estes Termos de Uso (“Termos de Uso”) estabelecem os termos e condições de
   5.9 O Usuário garante e certifica que, ao acessar ou usar o Serviço, não está infringindo quaisquer direitos legais, contratuais ou de terceiros, bem como quaisquer outros. Quaisquer reclamações de terceiros serão de responsabilidade do Usuário, que deverá assumir todas e quaisquer responsabilidades legais e processuais com relação à reclamação. O Usuário fica ciente que a OriginalMy denunciará todas e quaisquer lides, litígios e disputas no qual for envolvida por conta de conteúdos e condutas submetidos ou perpetradas por Usuários ou terceiros, na medida permitida pela lei, de modo a não mais ser parte da lide, litígio ou disputa. A OriginalMy também se faculta o direito de chamar ao processo qualquer Usuário, em razão de quaisquer ações originárias de sua conduta e/ou conteúdo submetido. Faculta-se também o direito de responsabilizar diretamente o Usuário perpetrador da conduta abusiva, valendo-se para isso de todas os recursos legalmente possíveis, incluindo direito de regresso, dentre outros. Para tanto, a OriginalMy irá valer-se dos dados de registro bem como quaisquer outros dados técnicos que permitam identificar o Usuário, ficando desde já ciente disso o Usuário ou terceiros afetados, que não poderão alegar qualquer violação de privacidade nesses casos. A OriginalMy reserva-se também o direito de cancelar o registro a qualquer tempo de qualquer Usuário, por sua única e exclusiva discricionariedade, sem qualquer aviso prévio, sempre que for inobservado pelo Usuário o disposto nestes Termos de Uso. 
   
   5.10 Todas as marcas, nomes comerciais e sinais distintivos de qualquer espécie presentes nas plataformas de acesso e uso do Serviço, incluindo sua própria marca e designação, são pertencentes a seus respectivos titulares de direito. Para a utilização de quaisquer destas marcas, nomes e sinais, é necessário a obtenção da respectiva autorização dos seus titulares.
+
 6. COMUNICAÇÃO COM A ORIGINALMY
+-------------------------------
 
   6.1 Todas as notificações entre Usuário e OriginalMy deverão ser feitas única e exclusivamente através do canal de contato com a equipe de administração do site, pelo email contato@originalmy.com. 
   
@@ -121,16 +128,19 @@ Estes Termos de Uso (“Termos de Uso”) estabelecem os termos e condições de
     6.2.1 Neste sentido, todas as notificações que a OriginalMy realizar serão consideradas válidas quando efetuadas empregando os dados e através de qualquer dos meios anteriormente destacados. Para estes efeitos, o Usuário declara que todos os dados fornecidos são válidos e corretos, e como tais serão considerados, comprometendo-se a comunicar e atualizar junto à plataforma OriginalMy todas as mudanças relativas a seus dados pessoais.
     
 7. VIGÊNCIA
+-----------
 
   7.1 O presente Termo tem vigência por prazo indeterminado, tendo seu início a partir da data do Aceite Eletrônico por parte do Usuário.
   
 8. ENCERRAMENTO DOS SERVIÇOS
+----------------------------
 
   8.1 A OriginalMy poderá alterar, adicionar, excluir, interromper ou suspender a prestação dos Serviços a qualquer momento desde que comunique o Usuário mediante aviso eletrônico, respeitado o direito de utilização dos créditos existentes na Conta do Usuário à época do cancelamento ou a restituição de tais créditos ao Usuário.
   
   8.2 Será considerado motivo justo para a rescisão imediata e unilateral destes Termos de Uso, por parte de OriginalMy, se a utilização dos Serviços ocorrer em violação às disposições do presente instrumento, ou ainda, se o Usuário ou os Signatários infringirem o ordenamento jurídico vigente, incluindo, mas não se limitando, às condutas previstas na cláusula 5.5 deste Termo, sem direito a qualquer restituição de créditos do Usuário.
   
 9. CONSIDERAÇÕES GERAIS
+-----------------------
 
   9.1 Estes Termos de Uso representam a totalidade da avença entre Usuários, Signatários e OriginalMy, revogando todo e qualquer acordo oral ou escrito, anterior ou contemporâneo, firmado entre estes com relação ao objeto dos presentes Termos de Uso.
   
