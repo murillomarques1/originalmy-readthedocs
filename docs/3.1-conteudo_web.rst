@@ -23,6 +23,9 @@ INSTALAÇÃO E USO
 
 Instale a extensão utilizando a webstore do Chrome ou clique neste link: https://chrome.google.com/webstore/detail/originalmy-prova-de-auten/lipchhllklhmehlnknonpkjgaolabkfd
 
+.. image:: images/instale_plugin.jpg
+  scale:: 50%
+
 Instalação da Extensão OriginalMy no Chrome
 -------------------------------------------
 
@@ -56,13 +59,18 @@ Para acessar o permalink de uma postagem no Twitter:
 .. image:: images/permalink_twitter.jpg
 
   - Após abrir exatamente a página com o conteúdo que deseja registrar, basta clicar no ícone do aplicativo que ele começará a varredura pelo site sendo visualizado no momento.
+  
+.. image:: images/click_plugin.jpg
 
 Botão OriginalMy na Barra de Extensões do Chrome
 ------------------------------------------------
 
 Após a varredura, ele solicitará o registro em OriginalMy.com (que só será efetivamente registrado após confirmação do pagamento) e disponibilizará um relatório em formato PDF para ser usado como prova de autenticidade.
 
+.. image:: images/pagamento.jpg
+
 * Solicitação de Registro em OriginalMy.com
+
 .. note:: Este documento será a própria chave de acesso em OriginalMy.com para futuramente consultar o status de certificação e acessar o certificado de autenticidade emitido após a confirmação de registro.
 
 Dica
@@ -71,6 +79,7 @@ Dica
 Sempre redimensione o browser para ajustar seu tamanho ao conteúdo que deseja registrar. O arquivo final ficará menor e utilizará menos memória do seu computador.
 
 OBSERVAÇÃO IMPORTANTE:
+
 .. note:: Tanto este aplicativo quanto o site OriginalMy.com respeitam a sua privacidade.
 
 .. note:: Não tomamos conhecimento ou armazenamos informações referentes ao conteúdo do seu documento, somente da assinatura digital única e exclusiva que é calculada diretamente no seu browser.
