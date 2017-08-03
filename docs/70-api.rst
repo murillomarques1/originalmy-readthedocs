@@ -1,5 +1,5 @@
-API
-===
+API para integração com sistemas
+================================
 
 .. note:: Esta documentação pode ser encontrada online, inclusive com testes na live testnet neste link: https://signcontracts-mobile-api-stag.herokuapp.com/docs/
 
@@ -15,7 +15,7 @@ Caso não tenha uma Chave de Acesso para uso da API, solicite através do email:
 
 
 .. _Bitcoin: https://blocktrail.com/tBTC
-.. _Ethereum: https://etherscan.io
+.. _Ethereum: https://rinkeby.etherscan.io
 .. _Decred: https://testnet.decred.org
 
 
