@@ -82,6 +82,7 @@ Como verificar
 --------------
 
 Endereços: https://github.com/OriginalMy/originalmy-dapp-addresses/blob/master/contract-addresses.js
+
 Funções dos smart-contracts: https://github.com/OriginalMy/originalmy-dapp-addresses
 
 ===========================
@@ -99,6 +100,7 @@ Como verificar
 --------------
 
 Endereços: https://github.com/OriginalMy/originalmy-dapp-addresses/blob/master/contract-addresses.js
+
 Funções dos smart-contracts: https://github.com/OriginalMy/originalmy-dapp-addresses
 
 =================
