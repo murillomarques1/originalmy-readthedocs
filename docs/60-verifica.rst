@@ -110,7 +110,7 @@ Decred Blockchain
 Sobre
 -----
 
-O registro em Blockchain Decred é feito através de um método chamado *pool de registros* ou **registro compartilhado**. 
+O registro em Blockchain Decred é feito através de um método chamado *pool de registros* ou **registro compartilhado**. Este método utiliza uma versão customizada do projeto Drctime, que se baseou no OpenTimestamps para sua construção.
 
 Não são feitos registros individuais nesse blockchain. As assinaturas digitais são acumuladas e depois de certo tempo, elas são agrupadas e somente um registro, que representa todo o bloco, é no blockchain.
 
@@ -131,3 +131,10 @@ Como verificar
 * Encontre a linha OP_RETURN e confira o merkle tree fornecido.
 
 .. note:: A existência dessa transação no Blockchain prova que o documento existiu no momento da transação e foi incluída junto ao bloco
+
+
+==================
+Outras informações
+==================
+
+.. note:: O registro e assinatura de contratos acontece somente na rede Ethereum Classic
