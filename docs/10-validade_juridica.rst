@@ -10,6 +10,7 @@ Poucos ainda sabem, mas no Brasil há uma lei que determina que se as partes con
 Esta informação está expressa na Medida Provisório MP 2200/2001, que pode ser encontrada neste link: http://www.planalto.gov.br/ccivil_03/mpv/antigas_2001/2200-2.htm
 
 .. note:: Art. 10.  Consideram-se documentos públicos ou particulares, para todos os fins legais, os documentos eletrônicos de que trata esta Medida Provisória.
+  
   § 2o  O disposto nesta Medida Provisória não obsta a utilização de outro meio de comprovação da autoria e integridade de documentos em forma eletrônica, inclusive os que utilizem certificados não emitidos pela ICP-Brasil, desde que admitido pelas partes como válido ou aceito pela pessoa a quem for oposto o documento.
   
 Isso significa que, em razão da autonomia da vontade das partes, os interessados podem estipular que outra certificadora conferirá validade, autenticidade e autoria ao documento eletrônico produzido.
