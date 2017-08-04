@@ -19,15 +19,15 @@ Isso significa que, em razão da autonomia da vontade das partes, os interessado
 Código Civil
 ============
 
-O Código Civil, em seu artigo 107, estabelece que se não houver forma prescrita em lei, a manifestação da vontade das partes ser válida. Portanto, desde que a lei não vede a utilização de meios eletrônicos ou defina a forma específica para o ato, deve ser respeitada a vontade dos manifestantes.
+O Código Civil, em seu artigo 107, estabelece que se não houver forma prescrita em lei, a manifestação da vontade das partes é válida. Portanto, desde que a lei não vede a utilização de meios eletrônicos ou defina a forma específica para o ato, deve ser respeitada a vontade dos manifestantes.
 
-=========================
-Como o OriginalMy resolve
-=========================
+==========================================================================
+Validade Jurídica dos contratos assinados através da plataforma OriginalMy
+==========================================================================
 
-Existem 2 desafios que ocorrem ao se recorrer a métodos eletrônicos de autenticação:
+Existem 2 desafios que ocorrem ao se recorrer a métodos eletrônicos de autenticação e ambos são cobertos pela metodologia inovadora desenvolvido pela OriginalMy:
 
-1) Garantia de no adulteração do conteúdo (integridade e autenticidade); e
+1) Garantia de não adulteração do conteúdo (integridade e autenticidade); e
   
   Este quesito é coberto com o registro de autenticidade do conteúdo em Blockchain, que é uma rede distribuída, descentralizada, imutável, pública e transparente. O blockchain garante que nenhum informação registrada lá sofreu alteração.       
   Isso é feito armazenando a assinatura digital do documento nessa rede.
@@ -42,11 +42,13 @@ Existem 2 desafios que ocorrem ao se recorrer a métodos eletrônicos de autenti
 
 * Sobre a validação de identidade: http://docs.originalmy.com/pt_BR/latest/23-identidade.html
 
+* Sugestões para reforçar a validade jurídica do contrato: http://docs.originalmy.com/pt_BR/latest/80-recomendacoes.html#contratos
+
 
 
 Referências sobre a validade jurídica:
-http://www.boletimjuridico.com.br/doutrina/texto.asp?id=3934
-http://www.dnt.adv.br/noticias/documento-eletronico/artigo-quando-a-assinatura-de-proprio-punho-pode-ser-substituida-pela-assinatura-eletronica-ou-pela-digital/
-http://www.ambito-juridico.com.br/site/?n_link=revista_artigos_leitura&artigo_id=10239&revista_caderno=17
-http://www.angelfire.com/mt/ricardoprado/contrato.html
+  http://www.boletimjuridico.com.br/doutrina/texto.asp?id=3934
+  http://www.dnt.adv.br/noticias/documento-eletronico/artigo-quando-a-assinatura-de-proprio-punho-pode-ser-substituida-pela-assinatura-eletronica-ou-pela-digital/
+  http://www.ambito-juridico.com.br/site/?n_link=revista_artigos_leitura&artigo_id=10239&revista_caderno=17
+  http://www.angelfire.com/mt/ricardoprado/contrato.html
 
