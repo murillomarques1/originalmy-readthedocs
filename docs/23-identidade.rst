@@ -52,6 +52,8 @@ Identidade Blockchain
 
 A identidade blockchain utiliza criptografia forte de última geração para ser criada.
 
+.. note:: A Identidade Blockchain é criada utilizando criptografia de chaves assimétricas baseada em tecnologia Blockchain.
+
 Essa identidade é composta de duas partes:
 
   1) Parte privada: Conhecida como chave privada, fica armazenada somente no celular do usuário, criptografada, e pode ser recuperada à partir das 12 palavras fornecidas em caso de troca de celular, reinstalação, etc.
