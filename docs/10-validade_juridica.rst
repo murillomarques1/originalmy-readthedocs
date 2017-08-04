@@ -26,17 +26,18 @@ O Código Civil, em seu artigo 107, estabelece que se não houver forma prescrit
 Validade Jurídica dos contratos assinados através da plataforma OriginalMy
 ==========================================================================
 
-Existem 2 desafios que ocorrem ao se recorrer a métodos eletrônicos de autenticação e ambos são cobertos pela metodologia inovadora desenvolvido pela OriginalMy:
+Conforme descrito anteriormente, o OriginalMy atende à legislação vigente. 
+
+Existem também 2 desafios que ocorrem ao se recorrer a métodos eletrônicos de autenticação e demonstramos como **ambos são cobertos pela metodologia inovadora desenvolvido pela OriginalMy**:
 
 1) Garantia de não adulteração do conteúdo (integridade e autenticidade); e
   
-  Este quesito é coberto com o registro de autenticidade do conteúdo em Blockchain, que é uma rede distribuída, descentralizada, imutável, pública e transparente. O blockchain garante que nenhum informação registrada lá sofreu alteração.       
-  Isso é feito armazenando a assinatura digital do documento nessa rede.
+  Este quesito é observado com o registro da assinatura digital em Blockchain, que é uma rede aberta, distribuída, descentralizada, imutável, pública e transparente. O blockchain garante que nenhum informação registrada lá sofreu alteração.       
   
   
 2) Possibilidade de identificação das partes signatárias (autoria)
-  Através do nosso app fazemos a identificação do usuário e após seu cadastro completo, ele recebe uma identificação blockchain baseada em criptografia assimátrica.
-  Através desta identidade é possível reconhecer os atos praticados pelo usuário na nossa plataforma.
+  Através do nosso app fazemos a identificação do usuário (KYC) e após seu cadastro completo, ele recebe uma identificação blockchain baseada em criptografia assimétrica.
+  Através desta identidade é possível reconhecer a autoria dos atos praticados pelo usuário utilizando a nossa plataforma.
 
   
 * Sobre os controles para a prova de autoria: http://docs.originalmy.com/pt_BR/latest/20-contratos.html#controles-de-seguranca-para-a-assinatura-de-contratos
