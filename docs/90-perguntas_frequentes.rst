@@ -103,3 +103,161 @@ Caso o site OriginalMy.com deixe de existir, é possível confirmar meu certific
 
 Mesmo que este site não esteja disponível, o seu certificado ficará registrado no blockchain para sempre, de maneira irrevogável.É possível checar seu certificado diretamente no blockchain utilizando seu Código de Transação e o documento original.
 
+=================================================================
+Registro de Autenticidade e Registro de Contrato é a mesma coisa?
+=================================================================
+
+Não. O **Registro de Autenticidade** é para arquivos digitais que não necessitam de nenhum signatário, é somente o registro para comprovar que o documento é autêntico e ter o carimbo de tempo do momento em que foi registrado. O **Registro de Contrato** é utilizado quando obrigatoriamente pessoas precisam assinar o documento. Tendo um ou mais signatários, sempre deverá ser registrado utilizando o Registro de Contrato.
+
+===========================================================================================
+Adicionei por engano um contrato no Registro de Autenticidade, posso adicionar signatários?
+===========================================================================================
+
+Caso ainda não tenha feito o pagamento, é possível submeter o mesmo documento na área para Registro de Contrato e adicionar os signatários. Se já tiver feito o pagamento, não é possível adicionar nenhum signatário.
+
+==============================================================================================================
+Registrei meu contrato utilizando o Registro de Autenticidade e não consigo adicionar os signatários. E agora?
+==============================================================================================================
+
+Será necessário enviar um novo documento. Qualquer alteração por menor que seja, modificará a Identidade do documento. Abrir o arquivo e clicar em "Salvar" já é considerada uma modificação. Utilize este arquivo modificado para gerar um novo PDF e fazer o **Registro de Contrato** com os signatários.
+
+======================================================================================
+Depois de registrar o contrato eu consigo adicionar, remover ou trocar os signatários?
+======================================================================================
+
+Caso ainda não tenha feito o pagamento, é possível adicionar, remover ou trocar os signatários. Caso já tenha pago, não será possível adicionar, remover ou trocar os signatários. O Registro de Contrato no Blockchain funciona da mesma forma como no mundo físico. Exemplo: Um contrato em papel registrado na Junta Comercial, não pode ter somente a página com os signatários alterada e continuar válido. Qualquer alteração significa modificar o documento inteiro e fazer um **NOVO** registro. 
+
+====================================================================================
+Nem todos os signatários estão com o aplicativo instalado, eu vou conseguir assinar?
+====================================================================================
+
+Não. O contrato somente será enviado para o Blockchain depois que todos os signatários estiverem com o aplicativo instalado e com o cadastro validado. No mundo físico, este procedimento é equivalente à qualificação das partes, ou seja, é o momento em que são apresentadas as informações do signatário como: nome completo e número dos documentos. Sem identificar quem são todos os signatários, não é possível fazer a assinatura pois o contrato estará incompleto.
+
+======================================
+Como eu saberei se todos já assinaram?
+======================================
+
+Há três formas de verificação. Uma é fazer a consulta diretamente pelo aplicativo, no campo: "Assinado por todos" vai aparecer "Sim" ou "Não". A segunda forma é submetendo o documento original sem alterações na plataforma da OriginalMy para verificar as informações disponíveis sobre o registro. A  terceira forma é aguardar o recebimento por e-mail do "Certificado de Assinatura de Documento".
+
+=================================================================================
+Recebi um email dizendo que tenho um contrato para assinar, o que isso significa?
+=================================================================================
+
+Significa que um contrato foi registrado no blockchain e está aguardando sua assinatura. Para assinar, obrigatoriamente você precisa ter uma cópia do contrato.
+
+=========================================================
+Por que preciso preencher o PIN para assinar um contrato?
+=========================================================
+
+Este é um mecanismo de segurança para comprovar que no momento da assinatura, você estava em posse do documento original e assim pode ter certeza da versão do documento que está assinando. 
+
+============================================
+Onde encontro o PIN para assinar o contrato?
+============================================
+
+Existem duas formas para conseguir o PIN para assinatura do contrato. 1- Pelo computador: faça login na OriginalMy e submeta o contrato a ser assinado. Será mostrado o PIN para assinatura e a quantidade de signatários do contrato. 2 - Pelo smartphone: faça download do contrato e selecione "Abrir com" "Assinar Documentos", o PIN será preenchido automaticamente no aplicativo.
+
+==============================================================
+Posso usar sempre o mesmo PIN para assinar todos os contratos?
+==============================================================
+
+Não. Cada contrato tem um PIN próprio.
+
+====================================================================================
+Decidi não assinar o contrato que já foi registrado no blockchain, o que devo fazer?
+====================================================================================
+
+Basta não assinar o contrato. Mesmo que ele já tenha sido registrado no blockchain, sem a assinatura dos signatários, o contrato não terá validade.
+
+==================================
+Para onde irão minhas informações?
+==================================
+
+Ao submeter um documento na plataforma da OriginalMy, é calculada a Identidade do documento e esta identidade é registrada no Blockchain. Hoje utilizamos os blockchains das redes Bitcoin, Ethereum, Ethereum Classic e Decred. Somente o identidade do documento é registrada no blockchain e não temos contato com o conteúdo do documento dos nossos clientes.
+
+=======================================================
+O Blockchain garante que o registro nunca será perdido?
+=======================================================
+
+Uma vez registrado no blockchain, nunca mais este registro poderá ser modificado ou apagado, então para sempre a identidade do seu documento ficará gravada no blockchain. No caso da descontinuidade do suporte em algum dos blockchains públicos utilizados, nós temos a guarda dos nós com histórico completo das redes para a continuidade do negócio.
+
+====================================================================
+Perdi o documento original, a OriginalMy pode me fornecer uma cópia?
+====================================================================
+
+Não. A OriginalMy não armazena cópia dos documentos, a responsabilidade sobre a guarda dos documentos é do próprio cliente. 
+
+===============================================================================
+Existe alguma forma de consultar os dados do registro sem o documento original?
+===============================================================================
+
+Sim. Caso tenha a "Assinatura Digital" do documento, é possível fazer a consulta das informações sobre o registro acessando: https://originalmy.com/bitregistro/(colar a assinatura digital do documento). Exemplo: https://originalmy.com/bitregistro/7f418cb198376fd1314a71fc6bfe6d2ef41246f90c91797a648b5851a9b19129
+
+===========================================================
+Onde posso encontrar a Assinatura Digital do meu documento?
+===========================================================
+
+Ao submeter o documento na plataforma da OriginalMy, é calculada a Assinatura Digital do documento e aparecerá na tela a mesma Assinatura Digital todas as vezes que o documento sem alterações for submetido na plataforma.
+
+=============================================================================
+Posso guardar apenas a Assinatura Digital e não guardar o documento original?
+=============================================================================
+
+Não. A Assinatura Digital mostrará apenas os dados referentes ao registro mas não informa nada sobre o conteúdo do documento. Sem o documento original, não é possível identificar ao que se refere o registro.
+
+=======================================================================================================
+Para outra pessoa verificar a autenticidade do meu documento, eu preciso fornecer meus dados de acesso?
+=======================================================================================================
+
+Não. Seus dados de acesso não devem ser compartilhados em hipótese alguma. A única coisa que pode ser compartilhada é o documento original após o registro. Para outra pessoa fazer a consulta, ela deve criar a própria conta na OriginalMy e depois submeter o seu documento para visualizar todos os dados do registro.
+
+=================================
+Como é realizada a autenticidade?
+=================================
+
+Qualquer alteração no documento, mudará a Identidade dele, ou seja, a Assinatura Digital calculada será diferente do documento anterior. Somente o documento original sem alterações, gerará a mesma Assinatura Digital e ela será a sua garantia de que o documento é autêntico e não sofreu nenhuma alteração. A autenticidade é garantida através do algoritmo de assinatura digital que é o mesmo homologado pelo ICP-BR.
+
+===================================================
+O que garante que eu sou o dono daquela informação?
+===================================================
+
+A comprovação de autoria se dá através do nosso método de identificação e emissão de Identidade Blockchain. Além disso, o ideal é que seja feito o registro antes de dar publicidade ao documento, assim, você garante a precedência do seu registro.
+
+===============================================================================================
+O que acontece se outra pessoa registrar um documento igual ao meu, dizendo que pertence a ela?
+===============================================================================================
+
+O blockchain fornece o timestamp (carimbo de tempo) do momento do registro, publicamente. Mesmo que haja um registro posterior, pode-se facilmente comprovar a precedência, ou seja, qual é o registro mais antigo daquela informação.
+
+===============================================
+Posso registrar um imóvel apenas no Blockchain?
+===============================================
+
+Não. Para registro de imóveis existe uma legislação específica, não é possível fazer o registro somente em blockchain pois não terá validade jurídica. 
+
+====================================================================================================
+Fiz o pagamento em Bitcoin através de uma exchange e meu registro não foi efetuado, o que aconteceu?
+====================================================================================================
+
+Quando o pagamento é efetuado através de uma exchange, eles cobram uma taxa de transação. Se o valor selecionado para transferência for exatamente o valor do registro, a taxa será debitada do valor do registro e assim o sistema não consegue identificar o pagamento pois o valor recebido é diferente do esperado. Para que isso não aconteça, é preciso considerar a taxa e solicitar a transferência do valor do registro + taxa.
+
+==================================================================
+Qual o tamanho máximo que um arquivo pode ter para ser registrado?
+==================================================================
+
+A OriginalMy registra no blockchain somente a Assinatura Digital do documento que sempre terá o mesmo tamanho de 64 caracteres. O que limita o tamanho do arquivo, é a memória do computador que está sendo utilizado para gerar a assinatura digital que é obtida através de cálculos matemáticos. Sendo assim, o que determinará o tamanho máximo do arquivo, é a memória do computador do usuário.
+
+===============================================================
+O registro na OriginalMy substitui o "Reconhecimento de Firma"?
+===============================================================
+
+Não. O que pode ser feito é uma verificação se para o documento em questão, existe uma necessidade legal do reconhecimento de firma ou se é solicitado apenas por hábito. 
+
+==================================================================
+Como eu crio um documento ideal para ser registrado na OriginalMy?
+==================================================================
+
+Você pode criar um documento PDF contendo todas as informações que considerar importantes. Neste documento, escreva tudo que precisa ser descrito, coloque imagens, fotos, gráficos ou qualquer outra informação que considerar relevante. Depois de registrado este documento não poderá ser alterado. Guarde cópias do documento em locais seguros.
+
+
+
