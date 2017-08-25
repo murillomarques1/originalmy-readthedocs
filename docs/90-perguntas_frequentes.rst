@@ -259,5 +259,40 @@ Como eu crio um documento ideal para ser registrado na OriginalMy?
 
 Você pode criar um documento PDF contendo todas as informações que considerar importantes. Neste documento, escreva tudo que precisa ser descrito, coloque imagens, fotos, gráficos ou qualquer outra informação que considerar relevante. Depois de registrado este documento não poderá ser alterado. Guarde cópias do documento em locais seguros.
 
+================================================================
+Os registros em blockchain já estão sendo aceitos nos tribunais?
+================================================================
+
+Até o momento temos o conhecimento de um caso em que provas foram coletadas utilizando a OriginalMy e o juiz deferiu uma liminar em favor das provas. Isso significa que as provas foram aceitas porém ainda não existe jurisprudência para a utilização do blockchain isoladamente.
+
+======================================================================================
+Tenho uma ideia incrível, se eu registrar na OriginalMy estou protegido contra plágio?
+======================================================================================
+
+Não. Não existe nenhum mecanismo legal que proteja ideias. Caso a ideia tenha evoluído para um projeto, ele pode ser registrado no OriginalMy para comprovar a autoria e te proteger contra concorrência desleal.
+
+================================================================================
+Como utilizo a OriginalMy para proteger minha ideia contra concorrência desleal?
+================================================================================
+
+O primeiro passo é descrever a ideia da forma mais detalhada possível num documento PDF e fazer o Registro de Autenticidade deste documento antes de dar publicidade a ideia. Como todo registro em blockchain, este documento terá uma Assinatura Digital. Quando for apresentar a ideia para alguém, o ideal é que todas as partes envolvidas assinem um Acordo de Não Divulgação (NDA) e neste acordo deve constar a Assinatura Digital gerada no Registro de Autenticidade. Assim, caso uma das partes utilize as informações divulgadas, você estará protegido pois a lei garante a proteção nesse tipo de caso. A assinatura do NDA pode ser feita utilizando a ferramenta para Registro de Contratos da OriginalMy.
+
+===================================================
+Posso fazer meu testamento utilizando a OriginalMy?
+===================================================
+
+Sim. Entre os vários tipos de testamentos, o que pode ser feito é o Testamento Particular (artigos 1876 a 1880 do Código Civil). Este modelo de testamento, dispensa o registro nas instituições tradicionais, mas precisa atender alguns requisitos.
+
+================================================================================
+Quais os requisitos para fazer um Testamento Particular utilizando a OriginalMy?
+================================================================================
+
+O documento deve ser escrito pelo próprio testador (dono do testamento). A escrita pode ser de próprio punho ou digitado. O documento deverá estar limpo e sem rasuras. Se for digitado, deve ser feito com escrita corrida, ou seja, com espaço entre as palavras mas sem separação de linhas e parágrafos. Este documento deve ser assinado por 4 pessoas, o próprio testador e mais 3 testemunhas de sua escolha. A assinatura do testador deve ser feita na presença das testemunhas. O testador deve ler o testamento para as testemunhas e após a leitura, elas assinam. Após a morte do testador, alguém avisa ao juiz que existe o testamento particular. O juiz perguntará individualmente para cada testemunha se o testamento foi lido para ela, se a pessoa se recorda de detalhes e se reconhece a assinatura. Se pelo menos uma das testemunhas fizer as três confirmações, o testamento é considerado válido. O testamento deve ser registrado utilizando o **Registro de Contrato** e os CPFs para assinatura devem ser do testador e das 3 testemunhas. A ordem das assinaturas deve obedecer o descritivo acima: primeiro o testador assina na frente das testemunhas, faz a leitura do testamento e em seguida todas as testemunhas assinam. 
+
+
+
+
+
+
 
 
