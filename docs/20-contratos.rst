@@ -1,16 +1,17 @@
 Contratos - Registro e Assinatura
 =========
 
-Leia as recomendações para **reforçar a validade jurídica** do seu contrato neste link: http://originalmy.readthedocs.io/pt_BR/latest/6-recomendacoes.html#recomendacoes
+Leia as recomendações para **reforçar a validade jurídica** do seu contrato neste link:                         http://originalmy.readthedocs.io/pt_BR/latest/80-recomendacoes.html
 
 =====================
 Registro de Contratos
 =====================
 
-1. Entre em https://originalmy.com/contratos
-2. Preencha os CPFs dos signatários
-3. Coloque um apelido para o contrato (esse apelido irá aparecer no app)
-4. Submeta o documento final do contrato (PDF)
+1. Entre em https://originalmy.com e faça Login
+2. Clique em **Registrar Contratos**
+3. Preencha os CPFs dos signatários
+4. Coloque um apelido para o contrato (esse apelido irá aparecer no app)
+5. Submeta o documento final do contrato (PDF)
 
 .. note:: O documento somente será registrado no Blockchain após todos os signatários tiverem instalado o app e completado o cadastro.
 
