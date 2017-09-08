@@ -64,6 +64,6 @@ Para efetuar a consulta, é necessário ter a posse do documento que foi registr
 
 Assim que o arquivo é submetido à plataforma, a assinatura digital é recalculada e caso o documento no tenha sofrido nenhuma alteração, é apresentado o status atual do documento: documento não certificado, aguardando confirmação ou documento registrado.
 
-Após o registro, todas as informações relativas ao documento aparecerão na tela.
+Submetendo o documento à plataforma, todas as informações relativas ao registro aparecerão na tela.
 
 
