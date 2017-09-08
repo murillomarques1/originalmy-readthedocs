@@ -13,7 +13,7 @@ A Extensão para o browser Chrome OriginalMy gera a Prova de Autenticidade que v
 
 Este aplicativo para o browser Chrome faz uma cópia do conteúdo que está sendo visualizado no browser e te fornece um relatório completo comprovando quando e onde esta informação estava disponível. Além disso ele já registra uma assinatura digital única e exclusiva que identificará esse documento em OriginalMy.com para fornecer uma prova de autenticidade com carimbo de tempo, confirmando o momento em que o conteúdo estava disponível.
 
-Também chamado de **BitRegistro**, essa prova legal de autenticidade protege criações, ideias, contratos e quaisquer documentos digitais que necessitem de comprovação de integridade e autenticidade. Este BitRegistro é um registro exclusivo que identifica e comprova a autenticidade e integridade do documento registrado utilizando uma rede descentralizada e distribuída, livre de fraudes, confiável e que não pode ser alterada por governos ou instituições — o Blockchain da rede Bitcoin.
+Também chamado de **BitRegistro**, essa prova legal de autenticidade protege criações, ideias, contratos e quaisquer documentos digitais que necessitem de comprovação de integridade e autenticidade. Este BitRegistro é um registro exclusivo que identifica e comprova a autenticidade e integridade do documento registrado utilizando uma rede descentralizada e distribuída, livre de fraudes, confiável e que não pode ser alterada por governos ou instituições — o Blockchain das redes Bitcoin, Ethereum, Ethereum Classic e Decred.
 
 Seus principais usos tem sido garantir validade a contratos digitais e documentos com propriedade intelectual, mas também pode ajudar a comprovar a precedência e uso de marcas e muitas outras coisas.
 
@@ -61,20 +61,20 @@ Para acessar o permalink de uma postagem no Twitter:
 .. image:: images/permalink_twitter.jpg
   :scale: 50%
 
+Botão OriginalMy na Barra de Extensões do Chrome
+------------------------------------------------
+
 Após abrir exatamente a página com o conteúdo que deseja registrar, basta clicar no ícone do aplicativo que ele começará a varredura pelo site sendo visualizado no momento.
   
 .. image:: images/click_plugin.jpg
   :scale: 50%
 
-Botão OriginalMy na Barra de Extensões do Chrome
-------------------------------------------------
+**Solicitação de Registro em OriginalMy.com**
 
 Após a varredura, ele solicitará o registro em OriginalMy.com (que só será efetivamente registrado após confirmação do pagamento) e disponibilizará um relatório em formato PDF para ser usado como prova de autenticidade.
 
 .. image:: images/pagamento.jpg
   :scale: 50%
-
-**Solicitação de Registro em OriginalMy.com**
 
 .. note:: Este documento será a própria chave de acesso em OriginalMy.com para futuramente consultar o status de certificação e acessar o certificado de autenticidade emitido após a confirmação de registro.
 
@@ -88,7 +88,7 @@ Sempre redimensione o browser para ajustar seu tamanho ao conteúdo que deseja r
 .. note:: Não tomamos conhecimento ou armazenamos informações referentes ao conteúdo do seu documento, somente da assinatura digital única e exclusiva que é calculada diretamente no seu browser.
   Portanto é responsabilidade do usuário salvar os documentos originais e outros arquivos em locais seguros para garantir a integridade, fazer backups dos mesmos e distribuí-los somente entre as partes interessadas.
   
-.. note:: Este aplicativo para o browser Chrome faz uma cópia do conteúdo que está sendo visualizado no browser e te fornece um relatório completo comprovando quando e onde esta informação estava disponível. Além disso ele já registra uma assinatura digital única e exclusiva que identificará esse documento em OriginalMy.com para fornecer uma prova de autenticidade com carimbo de tempo, confirmando o momento em que o conteúdo estava disponível.
+.. note:: Este aplicativo para o browser Chrome gera uma cópia do conteúdo que está sendo visualizado no browser e fornece um relatório completo comprovando quando e onde esta informação estava disponível. Além disso ele já registra uma assinatura digital única e exclusiva que identificará este documento em OriginalMy.com para fornecer uma prova de autenticidade com carimbo de tempo, confirmando o momento em que o conteúdo estava disponível.
 
 Você pode encontrar este conteúdo no nosso blog `neste link`_ 
 
