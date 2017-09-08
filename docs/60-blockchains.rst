@@ -38,9 +38,9 @@ Abra o terminal no seu computador:
 O que o OriginalMy faz com essa assinatura digital?
 ---------------------------------------------------
 
-O OriginalMy efetua o registro dessa assinatura digital, calculada à partir do documento fornecido pelo usuário, em diversos blockchains, público e/ou privados.
+O OriginalMy efetua o registro dessa assinatura digital, calculada a partir do documento fornecido pelo usuário, em diversos blockchains, públicos e/ou privados.
 
-No momemento em que o blockchain confirma o registro, ele recebe um carimbo de tempo (*timestamp*) que comprova o momento da confirmação.
+No momento em que o blockchain confirma o registro, ele recebe um carimbo de tempo (*timestamp*) que comprova o momento da confirmação.
 
 Como os blockchains públicos tem como premissa a imutabilidade e transparência, o registro da assinatura digital nunca mais poderá ser removido ou alterado, servindo de prova de que naquele momento certo documento digital existia. E ainda pode ser consultado livremente 24 horas por dia, 7 dias por semana, gratuitamente.
 
@@ -76,7 +76,7 @@ Ethereum Blockchain
 Sobre
 -----
 
-O registro nos blockchains com tecnologia Ethereum são feitos através de aplicações descentralizadas, desenvolvidadas exclusivamente para este fim.
+O registro nos blockchains com tecnologia Ethereum são feitos através de aplicações descentralizadas, desenvolvidas exclusivamente para este fim.
 
 Como verificar
 --------------
@@ -92,9 +92,9 @@ Ethereum Classic Blockchain
 Sobre
 -----
 
-Em 16/Jun/2017 optamos por migrar todos os smart-contracts para Ethereum Classic por causa dos preços do Ethereum, tempo de bloco e problemas com transações que desapareciam.
+Em 16/Jun/2017 optamos por migrar todos os smart-contracts para Ethereum Classic devido à elevação do preço do Ethereum, tempo de bloco e problemas com transações que desapareciam.
 
-O registro nos blockchains com tecnologia Ethereum são feitos através de aplicações descentralizadas, desenvolvidadas exclusivamente para este fim.
+O registro nos blockchains com tecnologia Ethereum Classic são feitos através de aplicações descentralizadas, desenvolvidadas exclusivamente para este fim.
 
 Como verificar
 --------------
@@ -112,7 +112,7 @@ Sobre
 
 O registro em Blockchain Decred é feito através de um método chamado *pool de registros* ou **registro compartilhado**. Este método utiliza uma versão customizada do projeto Drctime, que se baseou no OpenTimestamps para sua construção.
 
-Não são feitos registros individuais nesse blockchain. As assinaturas digitais são acumuladas e depois de certo tempo, elas são agrupadas e somente um registro, que representa todo o bloco, é no blockchain.
+Não são feitos registros individuais nesse blockchain. As assinaturas digitais são acumuladas e depois de certo tempo, elas são agrupadas e somente um registro, que representa todo o bloco, é gravado no blockchain.
 
 Ele funciona da seguinte maneira:
 
@@ -139,4 +139,4 @@ Curiosidades
 
 .. note:: A cada novo cadastro, com email validado, o usuário do OriginalMy ganha um voucher com *registros free*, que acontece somente na rede Decred.
 
-.. note:: O registro na rede Decred faz uso de uma rede centralizada, porém aberta e pública. É centralizada porque precisa agrupar os registros em um certo período de tempo.
+.. note:: O registro na rede Decred faz uso de uma rede centralizada, porém aberta e pública. É centralizada porque precisa agrupar os registros por um certo período de tempo.
