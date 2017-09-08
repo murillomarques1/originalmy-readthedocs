@@ -34,7 +34,7 @@ g) Criação de uma **Identidade Blockchain**, cuja parte privada fica armazenad
 
 .. note:: A sua identidade blockchain fica associada ao seu número de CPF publicamente em um blockchain, permitindo a verificação 24 horas por dia, 7 dias por semana.
 
-.. warning:: NUNCA entregue as 12 palavras para qualquer pessoa. Eles representam a sua identidade blockchain.
+.. warning:: NUNCA revele suas 12 palavras para outras pessoas. Elas representam a sua identidade blockchain.
 
 2) Pesquisa automática em redes públicas
 ----------------------------------------
@@ -56,9 +56,9 @@ A identidade blockchain utiliza criptografia forte de última geração para ser
 
 Essa identidade é composta de duas partes:
 
-  1) Parte privada: Conhecida como chave privada, fica armazenada somente no celular do usuário, criptografada, e pode ser recuperada à partir das 12 palavras fornecidas em caso de troca de celular, reinstalação, etc.
+  1) Parte privada: Conhecida como chave privada, fica armazenada somente no celular do usuário, criptografada, e pode ser recuperada a partir das 12 palavras fornecidas em caso de troca de celular, reinstalação, etc.
   
-  2) Parte pública: Também conhecida como chave pública, endereço de wallet ou apenas identidade blockchain, é a identificação  pública e será armazenada no blockchain associada ao CPF do proprietário.
+  2) Parte pública: Também conhecida como chave pública, endereço de wallet ou apenas identidade blockchain, é a identificação pública e será armazenada no blockchain associada ao CPF do proprietário.
 
 ================
 Troca de celular
