@@ -9,7 +9,7 @@ Todos os registros de teste acontecem nas Testnets públicas dos blockchains, to
 
 O APP Android de exemplo pode ser baixado em https://s3-sa-east-1.amazonaws.com/originalmy-app-staging/originalmy-app-testnet.apk
 
-Contratos podem ser lançados também diretamente na plataforma online: http://originalmy-staging.appspot.com/contratos utilizando o voucher 23N9-6WCR-SEMV na tela de pagamento
+Contratos podem ser lançados também diretamente na plataforma online: https://originalmy-frontend-staging.herokuapp.com/index utilizando o voucher 23N9-6WCR-SEMV na tela de pagamento
 
 Caso não tenha uma Chave de Acesso para uso da API, solicite através do email: contato@originalmy.com
 
