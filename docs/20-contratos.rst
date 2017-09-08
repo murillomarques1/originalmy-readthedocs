@@ -10,10 +10,10 @@ Registro de Contratos
 1. Entre em https://originalmy.com e faça Login
 2. Clique em **Registrar Contratos**
 3. Preencha os CPFs dos signatários
-4. Coloque um apelido para o contrato (esse apelido irá aparecer no app)
+4. Coloque um apelido para identificar o contrato (este apelido irá aparecer no app)
 5. Submeta o documento final do contrato (PDF)
 
-.. note:: O documento somente será registrado no Blockchain após todos os signatários tiverem instalado o app e completado o cadastro.
+.. note:: O documento somente será registrado no Blockchain após todos os signatários estiverem instalado o app e completado o cadastro.
 
 .. image:: images/registro_contrato.jpg
   :scale: 50%
@@ -22,7 +22,7 @@ Registro de Contratos
 Assinatura de contratos
 =======================
 
-1. Baixe o app Assinar Documento para Android ou iOS, nas lojas de aplicativo de cada aparelho.
+1. Baixe o app **OriginalMy Blockchain** para Android ou iOS, nas lojas de aplicativo de cada aparelho.
 2. Efetue o cadastro completo
 3. Entre no Menu -> Assinar Documentos
 4. Clique em Assinar no documento que deseja assinar
@@ -49,8 +49,8 @@ Existem duas formas de conseguir o PIN do documento.
 
 
 * **Forma 2:**
-  No app, abra o documento PDF selecionando o aplicativo Assinar Documentos para abrí-lo. 
-  Dessa forma o App comprovará que o documento é original e está pronto para ser assinado pelo usuário. 
+  No app, abra o documento PDF selecionando o aplicativo OriginalMy Blockchain para abrí-lo. 
+  Dessa forma o App comprovará que o documento é original e está pronto para ser assinado. 
 
 .. image:: images/pin2.jpg
   :scale: 50%
@@ -71,7 +71,7 @@ O OriginalMy possui 4 níveis de segurança para a assinatura de contratos:
 
 .. note:: KYC significa Know Your Customer, ou Conheça Seu Cliente em português. São técnicas para identificar o usuário quando o uso da ferramenta é crítico e precisa ser aderente às regulações vigentes.
 
-Exemplo de conjunto de palavas. **Anote-as em um papel**. O sistema solicitará as palavras para ter certeza de que o usuário a armazenou.
+Exemplo de conjunto de palavas. **Anote-as em um papel**. Sua identidade blockchain somente poderá ser recuperada com as doze palavras na mesma ordem apresentada, por este motivo é fundamental que elas sejam armazenadas em local seguro.
 
 .. image:: images/exemplo_seed.jpg
   :scale: 50%
