@@ -7,7 +7,7 @@ MP 2200-2/2001
 
 Poucos ainda sabem, mas no Brasil há uma lei que determina que se as partes concordarem com o modelo de certificação digital utilizado, ele válido.
 
-Esta informação está expressa na Medida Provisório MP 2200/2001, que pode ser encontrada neste link: http://www.planalto.gov.br/ccivil_03/mpv/antigas_2001/2200-2.htm
+Esta informação está expressa na Medida Provisória MP 2200/2001, que pode ser encontrada neste link: http://www.planalto.gov.br/ccivil_03/mpv/antigas_2001/2200-2.htm
 
 .. note:: Art. 10.  Consideram-se documentos públicos ou particulares, para todos os fins legais, os documentos eletrônicos de que trata esta Medida Provisória.
   
