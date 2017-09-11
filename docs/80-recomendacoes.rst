@@ -16,11 +16,11 @@ Recomendamos apenas duas alterações em seu contrato tradicional:
 
 Para ser possível inserir todas as informações recomendadas, é essencial que todos os signatários tenham tomado as seguintes ações:
 
-- Instalado no smartphone o aplicativo **Assinar Documentos** fornecido pela OriginalMy (disponível para os sistemas Android e iOS);
+- Instalado no smartphone o aplicativo **OriginalMy Blockchain** fornecido pela OriginalMy (disponível para os sistemas Android e iOS);
 
 - Validado o cadastro fornecendo todas as informações requisitadas.
 
-Após instalação e validação do cadastro de todos os signatários, recomendamos a inclusão das informações abaixo em todos os contratos que utilizam o modelo de assinatura digital fornecido pela OriginalMy através do aplicativo Assinar Documentos:
+Após instalação e validação do cadastro de todos os signatários, recomendamos a inclusão das informações abaixo em todos os contratos que utilizam o modelo de assinatura eletrônica fornecido pela OriginalMy através do aplicativo OriginalMy Blockchain:
 
 Identidade Blockchain na qualificação das partes
 ------------------------------------------------
@@ -31,10 +31,10 @@ Na qualificação das partes (identificação dos signatários), incluir também
 
 Para encontrar a identidade blockchain, basta seguir os passos:
 
-- Faça login no aplicativo Assinar Documentos;
+- Faça login no aplicativo OriginalMy Blockchain;
 - Clique no menu no canto superior esquerdo;
 - Clique em **Meu Cadastro**
-- Toque na sequência de letras e números na frente do item **PubKey** que a sequência será copiada para a área de transferência;
+- Toque na sequência de letras e números na frente do item **Blockchain ID** que a sequência será copiada para a área de transferência;
 - Cole a informação copiada no local que preferir (e-mail, Whatsapp, Slack, etc.)
 
 .. image:: images/Identidade_blockchain.jpg
@@ -83,15 +83,15 @@ O ideal é que seja registrada a versão final do documento, quando não houver 
 
 Em caso de qualquer alteração, o documento ficará diferente do registrado anteriormente e será considerado como um novo documento. Por este motivo será necessário um novo BitRegistro para o mesmo.
 
-Sempre que possível, recomendamos que o arquivo seja convertido para  a extensão .pdf (para que não sofra alterações como salvamento automático), além de guardar várias cópias do arquivo em locais seguros, como: Dropbox, Google Drive, OneDrive, além de backups em HDs externos. 
+Sempre que possível, recomendamos que o arquivo seja convertido para  a extensão .pdf (para que não sofra alterações como salvamento automático), além de guardar várias cópias do arquivo em locais seguros, como: Dropbox, Google Drive, OneDrive, além de backups em mídias externas (pen drives, HDs, etc). 
 
-.. note:: Como o OriginalMy não armazena documentos ou o conteúdo dos seus documentos digitais, a guarda e backups dos documentos registrados é de responsabilidade do usuário da plataforma. Faça cópias e as distribua para todos os interessados que necessitarem verificar a autenticidade.
+.. note:: Como o OriginalMy não armazena documentos ou o conteúdo dos seus documentos digitais, a guarda e backups dos documentos registrados é de responsabilidade do proprietário do documento. Faça cópias e as distribua para todos os interessados que necessitarem verificar a autenticidade.
 
-.. note:: **Pode:** O arquivo pode ser copiado ou enviado para outras pessoas. O nome do documento pode ser alterado após o registro.
+.. note:: **Pode:** O arquivo pode ser copiado e/ou enviado para outras pessoas. O nome do documento pode ser alterado após o registro.
 
  **Não pode:** Abrir e editar o documento após o registro. Não pode abrir o documento original em ferramentas que possuem salvamento automático sob o risco de ser alterado.
  
-Para conteúdo que contenha propriedade intelectual, é muito importante que o registro seja feito antes da publicação garantindo, assim, que o primeiro registro do conteúdo seja o do próprio autor. Em caso de disputa, poderá comprovar a precedência do seu material.
+Para conteúdo que contenha propriedade intelectual, é muito importante que o registro seja feito antes da publicação, garantindo assim, que o primeiro registro do conteúdo seja o do próprio autor. Em caso de disputa, poderá comprovar a precedência do seu material.
  
 O que registrar?
 ----------------
