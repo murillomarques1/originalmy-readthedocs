@@ -91,7 +91,7 @@ Atualmente, este registro ainda não exclui a necessidade de registro nos órgã
 Vocês armazenam cópias do meu documento original?
 =================================================
 
-Seus documentos e informações NÃO são armazenados nos nossos bancos de dados ou no Blockchain.
+Seus documentos e informações neles contidas NÃO são armazenados nos nossos bancos de dados ou no Blockchain.
 
 Armazenamos somente a assinatura digital (identidade criptográfica) do seu documento, que é uma assinatura única e exclusiva, reconhecida somente a partir do documento original.
 
@@ -101,7 +101,7 @@ Do documento original é possível recriar a assinatura digital, mas a partir da
 Caso o site OriginalMy.com deixe de existir, é possível confirmar meu certificado digital?
 ==========================================================================================
 
-Mesmo que este site não esteja disponível, o seu certificado ficará registrado no blockchain para sempre, de maneira irrevogável.É possível checar seu certificado diretamente no blockchain utilizando seu Código de Transação e o documento original.
+Mesmo que este site não esteja disponível, o seu certificado ficará registrado no blockchain para sempre, de maneira irrevogável. É possível checar seu certificado diretamente no blockchain utilizando seu Código de Transação e o documento original.
 
 =================================================================
 Registro de Autenticidade e Registro de Contrato é a mesma coisa?
