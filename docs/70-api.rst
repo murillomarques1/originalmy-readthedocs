@@ -237,7 +237,7 @@ Registro de documentos
 
 Method: GET
 
-Endpoint: http://testnet.originalmy.com
+Endpoint: http://testnet.originalmy.com/api/v1/company/register
 
 Parameters:
 
