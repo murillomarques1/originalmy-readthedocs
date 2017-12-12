@@ -247,7 +247,7 @@ Parameters:
 | k      | String | Chave de acesso                                                               |
 |        |        | Exemplo: XXXX-XXXX-XXXXX                                                      |
 +--------+--------+-------------------------------------------------------------------------------+
-| k      | String | Digest SHA256 do PDF do documento digital                                     |
+| d      | String | Digest SHA256 do PDF do documento digital                                     |
 |        |        | Exemplo: f00ab5b228a4c31968c472b4dfcc013b5b27de134bb490c1a70327eaf90a8235     |
 +--------+--------+-------------------------------------------------------------------------------+
 
