@@ -23,7 +23,7 @@ Assinatura de contratos
 =======================
 
 1. Baixe o app **OriginalMy Blockchain** para Android ou iOS, nas lojas de aplicativo de cada aparelho.
-2. Efetue o cadastro completo
+2. Efetue o cadastro completo, valide seu email e aguarde a validação do cadastro
 3. Entre no Menu -> Assinar Documentos
 4. Clique em Assinar no documento que deseja assinar
 5. Coloque o PIN do documento
