@@ -9,7 +9,7 @@ Encontrou algum conteúdo calunioso sobre você ou sua empresa? Deseja gerar uma
 
 A Extensão para o browser Chrome OriginalMy gera a Prova de Autenticidade que você precisa.
 
-.. warning:: Esta ferramenta cria uma prova adicional e não deve ser utilizada como única fonte de comprovação pois não existe prova única e 100% conclusiva. Ela será complementar a outras provas que ajudem a montar um perfil de comportamento que será analisado pela justiça.
+.. warning:: Esta ferramenta cria uma prova adicional e complementar que poderá ser utilizada em conjunto com outras provas que ajudem a montar um perfil de comportamento que será analisado pela justiça.
 
 Este aplicativo para o browser Chrome faz uma cópia do conteúdo que está sendo visualizado no browser e te fornece um relatório completo comprovando quando e onde esta informação estava disponível. Além disso ele já registra uma assinatura digital única e exclusiva que identificará esse documento em OriginalMy.com para fornecer uma prova de autenticidade com carimbo de tempo, confirmando o momento em que o conteúdo estava disponível.
 
