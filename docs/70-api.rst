@@ -61,7 +61,7 @@ Exemplo de retorno:
       "alias": "seg3",
       "digest": "3f906b2ce58702a18c98da316616d673e5c8e571d340caecc7d0006883741e5f"
     }
-  [
+  ]
   
 Listar todos os contratos para o usuário
 ----------------------------------------
@@ -227,7 +227,409 @@ Exemplo de retorno:
       ],
       "txstamp": "2017-07-25 17:50:10.070350"
   }
-  
+
+========================
+Contratos sem KYC
+========================
+
+Assinatura de contratos
+-----------------------
+
+Method: POST
+
+Endpoint: https://api1.testnet.originalmy.com/company/contract/sign
+
+Headers:
+
++---------------+--------+------------------------------------------------+
+| Campo         | Tipo   | Descrição                                      |
++===============+========+================================================+
+| authorization | String | Chave de API (BASE64)                          |
++---------------+--------+------------------------------------------------+
+
+Parameters:
+
++---------------------+--------+----------------------------------------------------------------------------+
+| Campo               | Tipo   | Descrição                                                                  |
++=====================+========+============================================================================+
+| contract[block]     | String | Bloco com a assinatura digital gerado com a OriginalMy LibCrypto           |
++---------------------+--------+----------------------------------------------------------------------------+
+| contract[walletId]  | String | Chave pública do usuário que está assinando                                |
++---------------------+--------+----------------------------------------------------------------------------+
+| contract[digest]    | String | Hash SHA256 do contrato                                                    |
++---------------------+--------+----------------------------------------------------------------------------+
+| contract[document]  | String | CPF do usuário que está assinando                                          |
++---------------------+--------+----------------------------------------------------------------------------+
+| contract[timestamp] | String | Timestamp do momento da assinatura                                         |
++---------------------+--------+----------------------------------------------------------------------------+
+| contract[config]    | Object | Objeto com a dificuldade e o token recebido no request /company/difficulty |
++---------------------+--------+----------------------------------------------------------------------------+
+
+Exemplo de request:
+
+::
+
+  curl --request POST \
+    --url 'https://api1.testnet.originalmy.com/company/contract/sign' \
+    --header 'Authorization: VEVTVC1FMTIzLTEyMzQ=' \
+    --header 'Content-Type: application/json' \
+    --data '{
+    "contract": {
+      "block": "331c4bf614d3817f85a9b01fa1bb3966c4c6c4a05d2407cac78356789f4de02a;42228411370;2018-03-02T19:21:35.600Z;mxVyE3JdBkKKgNPDkymVWtyDH6csYwjLfi;IGQ+YAH68eqvNO2iqjyNML177KjHLAmgH1lnmbUwD01FV3ZmZ/swlvdHVsjageeFuovJg1Yk8K5hSt3hdeq2qlo=;298",
+      "walletId": "mxVyE3JdBkKKgNPDkymVWtyDH6csYwjLfi",
+      "digest": "331c4bf614d3817f85a9b01fa1bb3966c4c6c4a05d2407cac78356789f4de02a",
+      "document": "42228411370",
+      "timestamp": "2018-03-02T19:21:35.600Z",
+      "config": {
+              "key": "difficulty",
+              "value": "2",
+              "token": "CUlQM51RKtHkDHNuvPeYUboD8nATu1aBKumCgHZITcKuArYlJP79ZKUbGuTDi1wldscyYsjKN65t10R7wYbY9fYETzrruScrKYiabXq9q5qy3lIR9xQ47iLkKOoN4HaSHSBMPnw5nTIlwBhcjDwxGfGDlKHaIJQOMwSkdBb2zO3FPVp8MdLythL9aFzYTVjqD8wJhvmO9zEmJsowPeND5N1KG1KpoSwcoSrs2OSNCJw2ZDviiDvuYxCSmaEspnRo"
+          }
+    }
+  }'
+
+Exemplo de retorno:
+
+:: 
+
+  {
+      "status": "success",
+      "data": {
+          "message": "Contrato assinado com sucesso"
+      }
+  }
+
+Checagem do status de um contrato
+---------------------------------
+
+Method: GET
+
+Endpoint: https://api1.testnet.originalmy.com/company/contract/status/:digest
+
+Headers:
+
++---------------+--------+------------------------------------------------+
+| Campo         | Tipo   | Descrição                                      |
++===============+========+================================================+
+| authorization | String | Chave de API (BASE64)                          |
++---------------+--------+------------------------------------------------+
+
+Exemplo de request:
+
+::
+
+  curl --request GET \
+  --url 'https://api1.testnet.originalmy.com/company/contract/status/331c4bf614d3817f85a9b01fa1bb3966c4c6c4a05d2407cac78356789f4de02a' \
+  --header 'Authorization: VEVTVC1FMTIzLTEyMzQ='
+
+Exemplo de retorno:
+
+:: 
+
+  {
+      "status": "success",
+      "data": {
+          "contract": {
+              "status": "confirmed",
+              "blockstamp": "2018-03-02 18:32:21",
+              "transaction": "0x30efa6e2a0ac079ccb8b6bc902f193af612113b76de09a8f6a125fe9f04f3aaa",
+              "contract": {
+                  "alias": "TESTE",
+                  "length": 2,
+                  "signed": false,
+                  "signers": [
+                      {
+                          "user_id": "33492543731",
+                          "signed": false
+                      },
+                      {
+                          "user_id": "42228411370",
+                          "signed": false
+                      }
+                  ]
+              },
+              "success": true,
+              "networks": [
+                  {
+                      "blockstamp": "2018-03-02 18:32:21",
+                      "transaction": "0x30efa6e2a0ac079ccb8b6bc902f193af612113b76de09a8f6a125fe9f04f3aaa",
+                      "link": "https://rinkeby.etherscan.io/tx/0x30efa6e2a0ac079ccb8b6bc902f193af612113b76de09a8f6a125fe9f04f3aaa",
+                      "name": "eth",
+                      "txstamp": "2018-03-02 18:32:02.283760"
+                  }
+              ],
+              "txstamp": "2018-03-02 18:32:02.283760"
+          }
+      }
+  }
+
+Criação de um novo contrato
+---------------------------
+
+Method: POST
+
+Endpoint: https://api1.testnet.originalmy.com/company/contract/register
+
+Headers:
+
++---------------+--------+-------------------------------------------------------+
+| Campo         | Tipo   | Descrição                                             |
++===============+========+=======================================================+
+| authorization | String | Chave de API (BASE64)                                 |
++---------------+--------+-------------------------------------------------------+
+
+Parameters:
+
++-------------------+----------+-------------------------------------------------+
+| Campo             | Tipo     | Descrição                                       |
++===================+==========+=================================================+
+| contract[alias]   | String   | Nome do contrato                                |
++-------------------+----------+-------------------------------------------------+
+| contract[digest]  | String   | Hash SHA256 do contrato                         |
++-------------------+----------+-------------------------------------------------+
+| contract[signers] | String[] | Array com o CPF de todos os signatários         |
++-------------------+----------+-------------------------------------------------+
+
+Exemplo de request:
+
+::
+
+  curl --request POST \
+    --url 'https://api1.testnet.originalmy.com/company/contract/register' \
+    --header 'Authorization: VEVTVC1FMTIzLTEyMzQ=' \
+    --header 'Content-Type: application/json' \
+    --data '{
+    "contract": {
+      "alias": "TESTE",
+      "signers": [
+        "42228411370",
+        "33492543731"
+      ],
+      "digest": "331c4bf614d3817f85a9b01fa1bb3966c4c6c4a05d2407cac78356789f4de02a"
+    }
+  }'
+
+Exemplo de retorno:
+
+:: 
+
+  {
+    "status": "success",
+    "data": {
+      "message": "Contrato registrado com sucesso"
+    }
+  }
+
+Criação do BlockchainID
+-----------------------
+
+Method: POST
+
+Endpoint: https://api1.testnet.originalmy.com/company/user/profile
+
+Headers:
+
++---------------+--------+-------------------------------------------------------+
+| Campo         | Tipo   | Descrição                                             |
++===============+========+=======================================================+
+| authorization | String | Chave de API (BASE64)                                 |
++---------------+--------+-------------------------------------------------------+
+
+Parameters:
+
++----------------+--------+-------------------------------------------------------+
+| Campo          | Tipo   | Descrição                                             |
++================+========+=======================================================+
+| user[walletId] | String | Chave pública da wallet do usuário                    |
++----------------+--------+-------------------------------------------------------+
+| user[document] | String | Número do CPF do usuário                              |
++----------------+--------+-------------------------------------------------------+
+
+Exemplo de request:
+
+::
+
+  curl --request POST \
+    --url 'https://api1.testnet.originalmy.com/company/user/profile' \
+    --header 'Authorization: VEVTVC1FMTIzLTEyMzQ=' \
+    --header 'Content-Type: application/json' \
+    --data '{
+    "user": {
+      "walletId": "mxVyE3JdBkKKgNPDkymVWtyDH6csYwjLfi",
+      "document": "42228411370"
+    }
+  }'
+
+Exemplo de retorno:
+
+:: 
+
+  {
+    "status": "success",
+    "data": {
+      "message": "Identidade registrada com sucesso"
+    }
+  }
+
+Listagem de contratos pendentes de um usuário
+---------------------------------------------
+
+Method: POST
+
+Endpoint: https://api1.testnet.originalmy.com/company/contract/user/pending
+
+Headers:
+
++---------------+--------+-------------------------------------------------------+
+| Campo         | Tipo   | Descrição                                             |
++===============+========+=======================================================+
+| authorization | String | Chave de API (BASE64)                                 |
++---------------+--------+-------------------------------------------------------+
+
+Parameters:
+
++----------------+--------+-------------------------------------------------------+
+| Campo          | Tipo   | Descrição                                             |
++================+========+=======================================================+
+| user[walletId] | String | Chave pública da wallet do usuário                    |
++----------------+--------+-------------------------------------------------------+
+| user[document] | String | Número do CPF do usuário                              |
++----------------+--------+-------------------------------------------------------+
+
+Exemplo de request:
+
+::
+
+  curl --request POST \
+    --url 'https://api1.testnet.originalmy.com/company/contract/user/pending' \
+    --header 'Authorization: VEVTVC1FMTIzLTEyMzQ=' \
+    --header 'Content-Type: application/json' \
+    --data '{
+    "user": {
+      "walletId": "mxVyE3JdBkKKgNPDkymVWtyDH6csYwjLfi",
+      "document": "42228411370"
+    }
+  }'
+
+Exemplo de retorno:
+
+:: 
+
+  {
+      "status": "success",
+      "data": {
+          "contracts": [
+              {
+                  "indice": 0,
+                  "pin": 6276,
+                  "tx": "0x30efa6e2a0ac079ccb8b6bc902f193af612113b76de09a8f6a125fe9f04f3aaa",
+                  "wallet_to": "miXPRuFwB1UxbRcTb24MZeJtsrPXkSJ7i5",
+                  "blockstamp": "2018-03-02 18:32:21",
+                  "alias": "TESTE",
+                  "digest": "331c4bf614d3817f85a9b01fa1bb3966c4c6c4a05d2407cac78356789f4de02a"
+              }
+          ]
+      }
+  }
+
+Listagem de todos os contratos de um usuário
+--------------------------------------------
+
+Method: POST
+
+Endpoint: https://api1.testnet.originalmy.com/company/contract/user/all
+
+Headers:
+
++---------------+--------+-------------------------------------------------------+
+| Campo         | Tipo   | Descrição                                             |
++===============+========+=======================================================+
+| authorization | String | Chave de API (BASE64)                                 |
++---------------+--------+-------------------------------------------------------+
+
+Parameters:
+
++----------------+--------+-------------------------------------------------------+
+| Campo          | Tipo   | Descrição                                             |
++================+========+=======================================================+
+| user[walletId] | String | Chave pública da wallet do usuário                    |
++----------------+--------+-------------------------------------------------------+
+| user[document] | String | Número do CPF do usuário                              |
++----------------+--------+-------------------------------------------------------+
+
+Exemplo de request:
+
+::
+
+  curl --request POST \
+    --url 'https://api1.testnet.originalmy.com/company/contract/user/all' \
+    --header 'Authorization: VEVTVC1FMTIzLTEyMzQ=' \
+    --header 'Content-Type: application/json' \
+    --data '{
+    "user": {
+      "walletId": "mxVyE3JdBkKKgNPDkymVWtyDH6csYwjLfi",
+      "document": "42228411370"
+    }
+  }'
+
+Exemplo de retorno:
+
+:: 
+
+  {
+      "status": "success",
+      "data": {
+          "contracts": [
+              {
+                  "blockstamp": "2018-03-02 18:32:21",
+                  "tx": "0x30efa6e2a0ac079ccb8b6bc902f193af612113b76de09a8f6a125fe9f04f3aaa",
+                  "signed": false,
+                  "alias": "TESTE",
+                  "order": 1,
+                  "digest": "331c4bf614d3817f85a9b01fa1bb3966c4c6c4a05d2407cac78356789f4de02a"
+              }
+          ]
+      }
+  }
+
+Nível de dificuldade da plataforma para assinaturas
+---------------------------------------------------
+
+Method: GET
+
+Endpoint: https://api1.testnet.originalmy.com/company/difficulty
+
+Headers:
+
++---------------+--------+-------------------------------------------------------+
+| Campo         | Tipo   | Descrição                                             |
++===============+========+=======================================================+
+| authorization | String | Chave de API (BASE64)                                 |
++---------------+--------+-------------------------------------------------------+
+
+Exemplo de request:
+
+::
+
+  curl --request GET \
+    --url 'https://api1.testnet.originalmy.com/company/difficulty' \
+    --header 'Authorization: VEVTVC1FMTIzLTEyMzQ='
+
+Exemplo de retorno:
+
+:: 
+
+  {
+      "status": "success",
+      "data": {
+          "config": {
+              "key": "difficulty",
+              "value": "2",
+              "token": "eoVAcBFTF4h3KDfzA9275PDfnMEQ4O0lp8xpacik8K0oUx1isM7x3U03j5tP1qGC2WCKKtIJXNgHQjNYp4pBv3vfnLSfuP6gYiztfNGIhKgvwpcxqSeLj93Yk77rhZhpmYfgISzjGFMGHs3KVQSKOc4pnWdeWaiAZhUkZMZTjK1ovbU3tHea9ZwV8diybk7qH0prekaaBBovuLabehfMXA5siHpyJaQYAgl6f5hGLg0UQkBh8DfzBGuUIkjhtSod"
+          }
+      }
+  }
+
 ==========
 Documentos
 ==========
@@ -345,7 +747,7 @@ Exemplo de request POST:
            "cpf": "64564467751"
       },
       "key": "XXXX-XXXX-XXXXX"
-}
+  }
 
 .. note:: Sucesso. A senha gerada para o usuário estar no user_password
 

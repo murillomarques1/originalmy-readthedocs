@@ -38,7 +38,7 @@ Funcionalidades
 .. _Leia mais aqui: http://originalmy.readthedocs.io/pt_BR/latest/recomendacoes.html#tipos-de-arquivos
 
 Links importantes
--------
+-----------------
 
 Acesse:
 
