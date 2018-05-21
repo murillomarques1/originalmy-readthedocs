@@ -8,7 +8,7 @@ Introdução
 
 Somos a primeira empresa brasileira a utilizar Blockchain como protocolo no Brasil, desde 2015, utilizando-o inicialmente para efetuar provas de autenticidade para documentos digitais.
 
-No seu lançamento, o OriginalMy registrava a autenticidade de documentos somente no blockchain da rede Bitcoin. Hoje a plataforma efetua os registros em 4 blockchains públicos e outros privados, sendo os mais relevantes:
+No seu lançamento, o OriginalMy registrava a autenticidade de documentos somente no blockchain da rede Bitcoin. Hoje a plataforma efetua os registros de autenticidade em 4 blockchains públicos e outros privados, sendo os mais relevantes:
 
 - Bitcoin: www.bitcoin.org
 - Ethereum: www.ethereum.org
