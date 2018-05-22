@@ -40,7 +40,7 @@ O que o OriginalMy faz com essa assinatura digital?
 
 O OriginalMy efetua a certificação dessa assinatura digital, calculada a partir do documento fornecido pelo usuário, em diversos blockchains, públicos e/ou privados.
 
-No momento em que o blockchain confirma o registro, ele recebe um carimbo de tempo (*timestamp*) que comprova o momento da confirmação.
+No momento em que o blockchain confirma o registro de autenticidade, ele recebe um carimbo de tempo (*timestamp*) que comprova o momento da certificação.
 
 Como os blockchains públicos tem como premissa a imutabilidade e transparência, o registro da assinatura digital nunca mais poderá ser removido ou alterado, servindo de prova de que naquele momento certo documento digital existia. E ainda pode ser consultado livremente 24 horas por dia, 7 dias por semana, gratuitamente.
 
