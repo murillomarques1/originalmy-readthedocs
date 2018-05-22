@@ -103,11 +103,11 @@ Caso o site OriginalMy.com deixe de existir, é possível confirmar meu certific
 
 Mesmo que este site não esteja disponível, o seu certificado ficará registrado no blockchain para sempre, de maneira irrevogável. É possível checar seu certificado diretamente no blockchain utilizando seu Código de Transação e o documento original.
 
-=================================================================
-Registro de Autenticidade e Registro de Contrato é a mesma coisa?
-=================================================================
+=====================================================================
+Registro de Autenticidade e Certificação de Contrato é a mesma coisa?
+=====================================================================
 
-Não. O **Registro de Autenticidade** é para arquivos digitais que não necessitam de nenhum signatário, é somente o registro para comprovar que o documento é autêntico e ter o carimbo de tempo do momento em que foi registrado. O **Registro de Contrato** é utilizado quando obrigatoriamente pessoas precisam assinar o documento. Tendo um ou mais signatários, sempre deverá ser registrado utilizando o Registro de Contrato.
+Não. O **Registro de Autenticidade** é para arquivos digitais que não necessitam de nenhum signatário, é somente a certificação para comprovar que o documento é autêntico e ter o carimbo de tempo do momento em que foi certificado. A **Certificação de Contrato** é utilizada quando obrigatoriamente pessoas precisam assinar o documento. Tendo um ou mais signatários, sempre deverá ser certificado utilizando a Certificação de Contrato.
 
 ===========================================================================================
 Adicionei por engano um contrato no Registro de Autenticidade, posso adicionar signatários?
