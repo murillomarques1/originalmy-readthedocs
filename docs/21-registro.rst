@@ -26,7 +26,7 @@ Criando o BitRegistro
 .. image:: images/submit.jpg
 
 
-- Assim que o arquivo é submetido à plataforma, é gerada a assinatura digital do documento e ele está pronto para ser enviado para registro no Blockchain após o pagamento
+- Assim que o arquivo é submetido à plataforma, é gerada a assinatura digital do documento e ele está pronto para ser enviado para certificação em Blockchain após o pagamento
 
 .. image:: images/documento_nao_certificado.jpg
 
