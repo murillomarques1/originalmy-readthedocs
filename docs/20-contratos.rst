@@ -13,7 +13,7 @@ Certificação de Contratos
 4. Coloque um apelido para identificar o contrato (este apelido irá aparecer no app)
 5. Submeta o documento final do contrato (PDF)
 
-.. note:: O documento somente será registrado no Blockchain após todos os signatários estiverem instalado o app e completado o cadastro.
+.. note:: O documento somente será certificado em Blockchain após todos os signatários estiverem instalado o app e completado o cadastro.
 
 .. image:: images/registro_contrato.jpg
   :scale: 50%
