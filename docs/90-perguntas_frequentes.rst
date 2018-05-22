@@ -121,11 +121,11 @@ Certifiquei meu contrato utilizando o Registro de Autenticidade e não consigo a
 
 Será necessário enviar um novo documento. Qualquer alteração por menor que seja, modificará a Identidade do documento. Abrir o arquivo e clicar em "Salvar" já é considerada uma modificação. Utilize este arquivo modificado para gerar um novo PDF e fazer a **Certificação de Contrato** com os signatários.
 
-======================================================================================
-Depois de registrar o contrato eu consigo adicionar, remover ou trocar os signatários?
-======================================================================================
+=======================================================================================
+Depois de certificar o contrato eu consigo adicionar, remover ou trocar os signatários?
+=======================================================================================
 
-Caso ainda não tenha feito o pagamento, é possível adicionar, remover ou trocar os signatários. Caso já tenha pago, não será possível adicionar, remover ou trocar os signatários. O Registro de Contrato no Blockchain funciona da mesma forma como no mundo físico. Exemplo: Um contrato em papel registrado na Junta Comercial, não pode ter somente a página com os signatários alterada e continuar válido. Qualquer alteração significa modificar o documento inteiro e fazer um **NOVO** registro. 
+Caso ainda não tenha feito o pagamento, é possível adicionar, remover ou trocar os signatários. Caso já tenha pago, não será possível adicionar, remover ou trocar os signatários. A Certificação de Contrato no Blockchain funciona da mesma forma como no mundo físico. Exemplo: Um contrato em papel registrado na Junta Comercial, não pode ter somente a página com os signatários alterada e continuar válido. Qualquer alteração significa modificar o documento inteiro e fazer um **NOVA** certificação. 
 
 ====================================================================================
 Nem todos os signatários estão com o aplicativo instalado, eu vou conseguir assinar?
