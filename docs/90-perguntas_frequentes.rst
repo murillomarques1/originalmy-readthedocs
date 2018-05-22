@@ -247,9 +247,9 @@ Qual o tamanho máximo que um arquivo pode ter para ser registrado?
 
 A OriginalMy registra no blockchain somente a Assinatura Digital do documento que sempre terá o mesmo tamanho de 64 caracteres. O que limita o tamanho do arquivo, é a memória do computador que está sendo utilizado para gerar a assinatura digital que é obtida através de cálculos matemáticos. Sendo assim, o que determinará o tamanho máximo do arquivo, é a memória do computador do usuário.
 
-===============================================================
-O registro na OriginalMy substitui o "Reconhecimento de Firma"?
-===============================================================
+===================================================================
+A certificação na OriginalMy substitui o "Reconhecimento de Firma"?
+===================================================================
 
 Não. O que pode ser feito é uma verificação se para o documento em questão, existe uma necessidade legal do reconhecimento de firma ou se é solicitado apenas por hábito. 
 
