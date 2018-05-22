@@ -9,7 +9,7 @@ Este documento foi elaborado para guiar o usuário passo a passo para registrar 
 
 É possível registrar qualquer arquivo digital na plataforma da OriginalMy, seja ele um arquivo de texto, imagem ou som.
 
-O arquivo que será registrado, não poderá sofrer alterações posteriores, sendo assim, crie cópias de segurança do arquivo e guarde em locais seguros. Mesmo um salvamento automático do arquivo é considerado como alteração.
+O arquivo que será certificado, não poderá sofrer alterações posteriores, sendo assim, crie cópias de segurança do arquivo e guarde em locais seguros. Mesmo um salvamento automático do arquivo é considerado como alteração.
 
 **Para sua segurança e privacidade, o documento não é armazenado pela OriginalMy**
 
