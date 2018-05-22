@@ -135,8 +135,8 @@ Como verificar
 Curiosidades
 ============
 
-.. note:: O registro e assinatura de contratos acontece somente na rede Ethereum Classic
+.. note:: A certificação e assinatura de contratos acontece somente na rede Ethereum Classic
 
-.. note:: A cada novo cadastro, com email validado, o usuário do OriginalMy ganha um voucher com *registros free*, que acontece somente na rede Decred.
+.. note:: A cada novo cadastro, com email validado, o usuário do OriginalMy ganha um voucher com *certificações free*, que acontecem somente na rede Decred.
 
-.. note:: O registro na rede Decred faz uso de uma rede centralizada, porém aberta e pública. É centralizada porque precisa agrupar os registros por um certo período de tempo.
+.. note:: A certificação na rede Decred faz uso de uma rede centralizada, porém aberta e pública. É centralizada porque precisa agrupar os registros por um certo período de tempo.
