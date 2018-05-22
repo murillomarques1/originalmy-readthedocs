@@ -116,9 +116,9 @@ Não são feitos registros de autenticidade individuais nesse blockchain. As ass
 
 Ele funciona da seguinte maneira:
 
-- No espaço de uma hora, o sistema acumula todos as assinaturas digitais registradas
-- De hora em hora ele agrupa todos os registros naquele intervalo e calcula uma assinatura digital para o bloco, que  chamada de merkle tree.
-- A assinatura digital (merkle tree) do bloco de assinaturas digitais é registrada no blockchain
+- No espaço de uma hora, o sistema acumula todos as assinaturas digitais dos documentos submetidos na plataforma da OriginalMy.
+- De hora em hora ele agrupa todas as assinaturas digitais acumuladas naquele intervalo e calcula uma assinatura digital para o bloco, que é chamada de merkle tree.
+- A assinatura digital (merkle tree) do bloco de assinaturas digitais é certificada no blockchain.
 
 
 Como verificar
