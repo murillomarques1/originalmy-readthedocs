@@ -21,7 +21,7 @@ Criando o BitRegistro
 .. image:: images/login.jpg  
   
 
-- Clique para selecionar o arquivo a ser registrado ou arraste o arquivo para dentro do campo indicado
+- Clique para selecionar o arquivo a ser certificado ou arraste o arquivo para dentro do campo indicado
 
 .. image:: images/submit.jpg
 
@@ -29,8 +29,6 @@ Criando o BitRegistro
 - Assim que o arquivo é submetido à plataforma, é gerada a assinatura digital do documento e ele está pronto para ser enviado para registro no Blockchain após o pagamento
 
 .. image:: images/documento_nao_certificado.jpg
-
-.. image:: images/assinatura_digital.jpg
 
 
 - Pague o registro do documento. O pagamento pode ser por Bitcoin ou via PagSeguro. Assim que o pagamento for confirmado, o documento será enviado para registro no Blockchain
@@ -41,8 +39,6 @@ Criando o BitRegistro
 - Assim que o documento for registrado em Blockchain, será fornecido um certificado e o carimbo de tempo do documento
 
 .. image:: images/documento_certificado.jpg
-
-.. image:: images/timestamp.jpg
 
 
 Verificando o BitRegistro
