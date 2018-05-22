@@ -3,12 +3,12 @@ Contratos - Registro e Assinatura
 
 Leia as recomendações para **reforçar a validade jurídica** do seu contrato neste link:                         http://originalmy.readthedocs.io/pt_BR/latest/80-recomendacoes.html
 
-=====================
-Registro de Contratos
-=====================
+=========================
+Certificação de Contratos
+=========================
 
 1. Entre em https://originalmy.com e faça Login
-2. Clique em **Registrar Contratos**
+2. Clique em **Certificar Contratos**
 3. Preencha os CPFs dos signatários
 4. Coloque um apelido para identificar o contrato (este apelido irá aparecer no app)
 5. Submeta o documento final do contrato (PDF)
