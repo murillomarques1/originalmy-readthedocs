@@ -113,7 +113,7 @@ Não. O **Registro de Autenticidade** é para arquivos digitais que não necessi
 Adicionei por engano um contrato no Registro de Autenticidade, posso adicionar signatários?
 ===========================================================================================
 
-Caso ainda não tenha feito o pagamento, é possível submeter o mesmo documento na área para Registro de Contrato e adicionar os signatários. Se já tiver feito o pagamento, não é possível adicionar nenhum signatário.
+Caso ainda não tenha feito o pagamento, é possível submeter o mesmo documento na área para Certificação de Contrato e adicionar os signatários. Se já tiver feito o pagamento, não é possível adicionar nenhum signatário.
 
 ==============================================================================================================
 Registrei meu contrato utilizando o Registro de Autenticidade e não consigo adicionar os signatários. E agora?
