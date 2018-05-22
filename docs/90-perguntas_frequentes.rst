@@ -253,11 +253,11 @@ A certificação na OriginalMy substitui o "Reconhecimento de Firma"?
 
 Não. O que pode ser feito é uma verificação se para o documento em questão, existe uma necessidade legal do reconhecimento de firma ou se é solicitado apenas por hábito. 
 
-==================================================================
-Como eu crio um documento ideal para ser registrado na OriginalMy?
-==================================================================
+===================================================================
+Como eu crio um documento ideal para ser certificado na OriginalMy?
+===================================================================
 
-Você pode criar um documento PDF contendo todas as informações que considerar importantes. Neste documento, escreva tudo que precisa ser descrito, coloque imagens, fotos, gráficos ou qualquer outra informação que considerar relevante. Depois de registrado este documento não poderá ser alterado. Guarde cópias do documento em locais seguros.
+Você pode criar um documento PDF contendo todas as informações que considerar importantes. Neste documento, escreva tudo que precisa ser descrito, coloque imagens, fotos, gráficos ou qualquer outra informação que considerar relevante. Depois de certificado este documento não poderá ser alterado. Guarde cópias do documento em locais seguros.
 
 ================================================================
 Os registros em blockchain já estão sendo aceitos nos tribunais?
