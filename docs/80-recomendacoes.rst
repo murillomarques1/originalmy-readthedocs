@@ -111,7 +111,7 @@ Como funciona?
 
 Quando o documento é submetido à plataforma da OriginalMy, é calculada uma identidade única e exclusiva para aquele documento. Essa identidade única é chamada de Assinatura Digital ou Hash.
 
-Quando o hash do documento é registrado no Blockchain, ele é copiado em todos os computadores do mundo que estão ligados à rede a qual o blockchain pertence, dessa forma, o registro é multiplicado milhares de vezes, garantindo assim que ele nunca será apagado da rede.
+Quando o hash do documento é certificado no Blockchain, ele é copiado em todos os computadores do mundo que estão ligados à rede a qual o blockchain pertence, dessa forma, a certificação é multiplicada milhares de vezes, garantindo assim que ela nunca será apagado da rede.
 
 É seguro?
 ---------
