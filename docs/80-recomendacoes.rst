@@ -93,10 +93,10 @@ Sempre que possível, recomendamos que o arquivo seja convertido para  a extens�
  
 Para conteúdo que contenha propriedade intelectual, é muito importante que o registro de autenticidade em Blockchain seja feito antes da publicação, garantindo assim, que a primeira certificação do conteúdo seja a do próprio autor. Em caso de disputa, poderá comprovar a precedência do seu material.
  
-O que registrar?
-----------------
+O que certificar?
+-----------------
 
-Há inúmeros casos de utilização do registro de autenticidade, vamos citar apenas alguns casos, que não se limitam às aplicações apresentadas.
+Há inúmeros casos de utilização do registro de autenticidade em Blockchain, vamos citar apenas alguns casos, que não se limitam às aplicações apresentadas.
 
 - Projetos acadêmicos: pesquisas científicas, trabalhos de conclusão de curso, monografias, dissertações de mestrado, teses de doutorado, material didático, metodologias de ensino;
 - Design: peças publicitárias, projetos, criações, propostas;
