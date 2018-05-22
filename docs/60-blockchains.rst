@@ -76,7 +76,7 @@ Ethereum Blockchain
 Sobre
 -----
 
-O registro nos blockchains com tecnologia Ethereum são feitos através de aplicações descentralizadas, desenvolvidas exclusivamente para este fim.
+O registro de autenticidade nos blockchains com tecnologia Ethereum são feitos através de aplicações descentralizadas, desenvolvidas exclusivamente para este fim.
 
 Como verificar
 --------------
