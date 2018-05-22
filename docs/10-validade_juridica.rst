@@ -28,7 +28,7 @@ Validade Jurídica dos contratos assinados através da plataforma OriginalMy
 
 Conforme descrito anteriormente, o OriginalMy atende à legislação vigente. 
 
-Existem também 2 desafios que ocorrem ao se recorrer a métodos eletrônicos de autenticação e demonstramos como **ambos são cobertos pela metodologia inovadora desenvolvido pela OriginalMy**:
+Existem também 2 desafios que ocorrem ao se recorrer a métodos eletrônicos de autenticação e demonstramos como **ambos são cobertos pela metodologia inovadora desenvolvida pela OriginalMy**:
 
 1) Garantia de não adulteração do conteúdo (integridade e autenticidade); e
   
