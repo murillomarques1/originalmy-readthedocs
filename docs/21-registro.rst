@@ -36,7 +36,7 @@ Criando o BitRegistro
 .. image:: images/aguardando_confirmacao.jpg
 
 
-- Assim que o documento for registrado em Blockchain, será fornecido um certificado e o carimbo de tempo do documento
+- Assim que o documento for certificado em Blockchain, será fornecido um certificado com os dados da transação e o carimbo de tempo do documento
 
 .. image:: images/documento_certificado.jpg
 
