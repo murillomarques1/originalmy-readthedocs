@@ -118,10 +118,10 @@ Quando o hash do documento é certificado no Blockchain, ele é copiado em todos
 
 Sim e de muitas formas diferentes:
 
-- Perenidade: Uma vez registrado, sempre será possível fazer a consulta do documento no blockchain, independente da existência da OriginalMy;
+- Perenidade: Uma vez certificado, sempre será possível fazer a consulta do documento no blockchain, independente da existência da OriginalMy;
 - Imutabilidade: Qualquer alteração, por menor que seja, altera a identidade do documento e isso torna muito fácil a detecção de fraudes e alterações em contratos por exemplo;
 - Confidencialidade: em nenhum momento a OriginalMy tem acesso ao conteúdo do documento submetido à plataforma;
-- Legalidade: Toda a plataforma foi construída com embasamento legal para que os documentos registrados tenham força de prova. 
+- Legalidade: Toda a plataforma foi construída com embasamento legal para que os documentos certificados tenham força de prova. 
 
 ==========================
 Recomendações de Segurança
