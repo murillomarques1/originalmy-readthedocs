@@ -71,11 +71,11 @@ O OriginalMy é agnóstico em relação ao blockchain utilizado. Atualmente efet
 A justiça reconhece este tipo de registro?
 ==========================================
 
-Depois do registro efetivado, você já possui uma prova legal de autenticidade. Para reforçar a validade jurídica de contratos, as partes envolvidas podem comprovar sua ciência e concordância sobre o conteúdo registrado, garantindo validade jurídica internacional para o seu registro.
+Depois do registro efetivado, você já possui uma prova legal de autenticidade. Para reforçar a validade jurídica de contratos, as partes envolvidas podem comprovar sua ciência e concordância sobre o conteúdo certificado, garantindo validade jurídica internacional para o seu registro.
 
 Além disso, a justiça brasileira já faz uso de assinaturas digitais e certificados digitais no cotidiano.
 
-Você já possui uma prova legal de autenticidade pois um documento assinado digitalmente e certificado em uma rede pública de maneira irrevogável, com conhecimento e concordância de todas as partes envolvidas sobre o conteúdo registrado,pode ser considerado prova adicional e complementar em casos de disputa.
+Você já possui uma prova legal de autenticidade pois um documento assinado digitalmente e certificado em uma rede pública de maneira irrevogável, com conhecimento e concordância de todas as partes envolvidas sobre o conteúdo certificado, pode ser considerado prova adicional e complementar em casos de disputa.
 
 A rede bitcoin, por exemplo, funciona de forma autônoma, sem um banco de dados central ou único administrador central. O blockchain é executado e mantido coletivamente por diversos nós da rede peer-to-peer para registrar as transações, e usa criptografia de código aberto para prover funções básicas de segurança para certificar que bitcoins só podem ser gastos pelo dono e evitar gastos duplos, falsificação e adulteração de bancos de dados. 
 
