@@ -55,10 +55,10 @@ Para efetuar a consulta, é necessário ter a posse do documento que foi registr
 
 - Clique para selecionar o arquivo previamente registrado ou arraste o arquivo para dentro do campo indicado
 
-.. image:: images/submit.jpg
+.. image:: images/submit2.jpg
 
 
-Assim que o arquivo é submetido à plataforma, a assinatura digital é recalculada e caso o documento no tenha sofrido nenhuma alteração, é apresentado o status atual do documento: documento não certificado, aguardando confirmação ou documento registrado.
+Assim que o arquivo é submetido à plataforma, a assinatura digital é recalculada e caso o documento não tenha sofrido nenhuma alteração, é apresentado o status atual do documento: documento não certificado, aguardando confirmação ou documento certificado.
 
 Submetendo o documento à plataforma, todas as informações relativas ao registro aparecerão na tela.
 
