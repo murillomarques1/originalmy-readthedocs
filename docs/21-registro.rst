@@ -31,7 +31,7 @@ Criando o BitRegistro
 .. image:: images/documento_nao_certificado.jpg
 
 
-- Pague o registro do documento. O pagamento pode ser por Bitcoin ou via PagSeguro. Assim que o pagamento for confirmado, o documento será enviado para registro no Blockchain
+- Pague a certificação do documento. O pagamento pode ser por Bitcoin ou via PagSeguro. Assim que o pagamento for confirmado, o documento será enviado para certificação no Blockchain
 
 .. image:: images/aguardando_confirmacao.jpg
 
