@@ -85,7 +85,7 @@ Embora não exista jurisprudência, já existe precedência. Há pelo menos uma 
 Este BitRegistro substitui o registro em cartório ou o registro de marcas e patentes no INPI?
 =============================================================================================
 
-Atualmente, este registro ainda não exclui a necessidade de registro nos órgãos oficiais e do governo, mas serve de respaldo e contra-prova em casos de disputa enquanto os meios oficiais não oferecem uma forma rápida e eficiente de validar a autenticidade da informação.
+Atualmente, esta certificação ainda não exclui a necessidade de registro nos órgãos oficiais e do governo, mas serve de respaldo e contra-prova em casos de disputa enquanto os meios oficiais não oferecem uma forma rápida e eficiente de validar a autenticidade da informação.
 
 =================================================
 Vocês armazenam cópias do meu documento original?
