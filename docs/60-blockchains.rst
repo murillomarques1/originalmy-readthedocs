@@ -110,7 +110,7 @@ Decred Blockchain
 Sobre
 -----
 
-O registro em Blockchain Decred é feito através de um método chamado *pool de registros* ou **registro compartilhado**. Este método utiliza uma versão customizada do projeto Drctime, que se baseou no OpenTimestamps para sua construção.
+O registro de autenticidade em Blockchain Decred é feito através de um método chamado *pool de registros* ou **registro compartilhado**. Este método utiliza uma versão customizada do projeto Drctime, que se baseou no OpenTimestamps para sua construção.
 
 Não são feitos registros individuais nesse blockchain. As assinaturas digitais são acumuladas e depois de certo tempo, elas são agrupadas e somente um registro, que representa todo o bloco, é gravado no blockchain.
 
