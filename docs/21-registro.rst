@@ -5,7 +5,7 @@ BitRegistro - Registro de Autenticidade
 Registro Unitário
 =================
 
-Este documento foi elaborado para guiar o usuário passo a passo para registrar um documento digital utilizando a plataforma da OriginalMy.
+Este documento foi elaborado para guiar o usuário passo a passo para registrar a autenticidade de um documento digital utilizando a plataforma da OriginalMy.
 
 É possível registrar qualquer arquivo digital na plataforma da OriginalMy, seja ele um arquivo de texto, imagem ou som.
 
