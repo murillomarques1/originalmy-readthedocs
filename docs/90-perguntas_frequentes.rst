@@ -115,11 +115,11 @@ Adicionei por engano um contrato no Registro de Autenticidade, posso adicionar s
 
 Caso ainda não tenha feito o pagamento, é possível submeter o mesmo documento na área para Certificação de Contrato e adicionar os signatários. Se já tiver feito o pagamento, não é possível adicionar nenhum signatário.
 
-==============================================================================================================
-Registrei meu contrato utilizando o Registro de Autenticidade e não consigo adicionar os signatários. E agora?
-==============================================================================================================
+================================================================================================================
+Certifiquei meu contrato utilizando o Registro de Autenticidade e não consigo adicionar os signatários. E agora?
+================================================================================================================
 
-Será necessário enviar um novo documento. Qualquer alteração por menor que seja, modificará a Identidade do documento. Abrir o arquivo e clicar em "Salvar" já é considerada uma modificação. Utilize este arquivo modificado para gerar um novo PDF e fazer o **Registro de Contrato** com os signatários.
+Será necessário enviar um novo documento. Qualquer alteração por menor que seja, modificará a Identidade do documento. Abrir o arquivo e clicar em "Salvar" já é considerada uma modificação. Utilize este arquivo modificado para gerar um novo PDF e fazer a **Certificação de Contrato** com os signatários.
 
 ======================================================================================
 Depois de registrar o contrato eu consigo adicionar, remover ou trocar os signatários?
