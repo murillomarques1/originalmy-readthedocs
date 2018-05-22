@@ -38,7 +38,7 @@ Abra o terminal no seu computador:
 O que o OriginalMy faz com essa assinatura digital?
 ---------------------------------------------------
 
-O OriginalMy efetua o registro dessa assinatura digital, calculada a partir do documento fornecido pelo usuário, em diversos blockchains, públicos e/ou privados.
+O OriginalMy efetua a certificação dessa assinatura digital, calculada a partir do documento fornecido pelo usuário, em diversos blockchains, públicos e/ou privados.
 
 No momento em que o blockchain confirma o registro, ele recebe um carimbo de tempo (*timestamp*) que comprova o momento da confirmação.
 
