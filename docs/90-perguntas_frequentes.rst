@@ -259,9 +259,9 @@ Como eu crio um documento ideal para ser certificado na OriginalMy?
 
 Você pode criar um documento PDF contendo todas as informações que considerar importantes. Neste documento, escreva tudo que precisa ser descrito, coloque imagens, fotos, gráficos ou qualquer outra informação que considerar relevante. Depois de certificado este documento não poderá ser alterado. Guarde cópias do documento em locais seguros.
 
-================================================================
-Os registros em blockchain já estão sendo aceitos nos tribunais?
-================================================================
+====================================================================
+As certificações em blockchain já estão sendo aceitos nos tribunais?
+====================================================================
 
 Até o momento temos o conhecimento de um caso em que provas foram coletadas utilizando a OriginalMy e o juiz deferiu uma liminar em favor das provas. Isso significa que as provas foram aceitas porém ainda não existe jurisprudência para a utilização do blockchain isoladamente.
 
