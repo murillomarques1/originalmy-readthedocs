@@ -265,11 +265,11 @@ As certificações em blockchain já estão sendo aceitos nos tribunais?
 
 Até o momento temos o conhecimento de um caso em que provas foram coletadas utilizando a OriginalMy e o juiz deferiu uma liminar em favor das provas. Isso significa que as provas foram aceitas porém ainda não existe jurisprudência para a utilização do blockchain isoladamente.
 
-======================================================================================
-Tenho uma ideia incrível, se eu registrar na OriginalMy estou protegido contra plágio?
-======================================================================================
+=======================================================================================
+Tenho uma ideia incrível, se eu certificar na OriginalMy estou protegido contra plágio?
+=======================================================================================
 
-Não. Não existe nenhum mecanismo legal que proteja ideias. Caso a ideia tenha evoluído para um projeto, ele pode ser registrado no OriginalMy para comprovar a autoria e te proteger contra concorrência desleal.
+Não. Não existe nenhum mecanismo legal que proteja ideias. Caso a ideia tenha evoluído para um projeto, ele pode ser certificado na OriginalMy para comprovar a autoria e te proteger contra concorrência desleal.
 
 ================================================================================
 Como utilizo a OriginalMy para proteger minha ideia contra concorrência desleal?
