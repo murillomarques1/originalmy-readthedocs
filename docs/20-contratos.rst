@@ -15,8 +15,8 @@ Certificação de Contratos
 
 .. note:: O documento somente será certificado em Blockchain após todos os signatários estiverem instalado o app e completado o cadastro.
 
-.. image:: images/registro_contrato.jpg
-  :scale: 50%
+.. image:: images/registro_contrato.png
+  :scale: 70%
 
 =======================
 Assinatura de contratos
