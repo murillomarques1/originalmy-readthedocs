@@ -71,11 +71,11 @@ O OriginalMy é agnóstico em relação ao blockchain utilizado. Atualmente efet
 A justiça reconhece este tipo de registro?
 ==========================================
 
-Depois do registro efetivado, você já possui uma prova legal de autenticidade. Para reforçar a validade jurídica de contratos, as partes envolvidas podem comprovar sua ciência e concordância sobre o conteúdo registrado, garantindo validade jurídica internacional para o seu registro.
+Depois do registro efetivado, você já possui uma prova legal de autenticidade. Para reforçar a validade jurídica de contratos, as partes envolvidas podem comprovar sua ciência e concordância sobre o conteúdo certificado, garantindo validade jurídica internacional para o seu registro.
 
 Além disso, a justiça brasileira já faz uso de assinaturas digitais e certificados digitais no cotidiano.
 
-Você já possui uma prova legal de autenticidade pois um documento assinado digitalmente e certificado em uma rede pública de maneira irrevogável, com conhecimento e concordância de todas as partes envolvidas sobre o conteúdo registrado,pode ser considerado prova adicional e complementar em casos de disputa.
+Você já possui uma prova legal de autenticidade pois um documento assinado digitalmente e certificado em uma rede pública de maneira irrevogável, com conhecimento e concordância de todas as partes envolvidas sobre o conteúdo certificado, pode ser considerado prova adicional e complementar em casos de disputa.
 
 A rede bitcoin, por exemplo, funciona de forma autônoma, sem um banco de dados central ou único administrador central. O blockchain é executado e mantido coletivamente por diversos nós da rede peer-to-peer para registrar as transações, e usa criptografia de código aberto para prover funções básicas de segurança para certificar que bitcoins só podem ser gastos pelo dono e evitar gastos duplos, falsificação e adulteração de bancos de dados. 
 
@@ -85,7 +85,7 @@ Embora não exista jurisprudência, já existe precedência. Há pelo menos uma 
 Este BitRegistro substitui o registro em cartório ou o registro de marcas e patentes no INPI?
 =============================================================================================
 
-Atualmente, este registro ainda não exclui a necessidade de registro nos órgãos oficiais e do governo, mas serve de respaldo e contra-prova em casos de disputa enquanto os meios oficiais não oferecem uma forma rápida e eficiente de validar a autenticidade da informação.
+Atualmente, esta certificação ainda não exclui a necessidade de registro nos órgãos oficiais e do governo, mas serve de respaldo e contra-prova em casos de disputa enquanto os meios oficiais não oferecem uma forma rápida e eficiente de validar a autenticidade da informação.
 
 =================================================
 Vocês armazenam cópias do meu documento original?
@@ -103,29 +103,29 @@ Caso o site OriginalMy.com deixe de existir, é possível confirmar meu certific
 
 Mesmo que este site não esteja disponível, o seu certificado ficará registrado no blockchain para sempre, de maneira irrevogável. É possível checar seu certificado diretamente no blockchain utilizando seu Código de Transação e o documento original.
 
-=================================================================
-Registro de Autenticidade e Registro de Contrato é a mesma coisa?
-=================================================================
+=====================================================================
+Registro de Autenticidade e Certificação de Contrato é a mesma coisa?
+=====================================================================
 
-Não. O **Registro de Autenticidade** é para arquivos digitais que não necessitam de nenhum signatário, é somente o registro para comprovar que o documento é autêntico e ter o carimbo de tempo do momento em que foi registrado. O **Registro de Contrato** é utilizado quando obrigatoriamente pessoas precisam assinar o documento. Tendo um ou mais signatários, sempre deverá ser registrado utilizando o Registro de Contrato.
+Não. O **Registro de Autenticidade** é para arquivos digitais que não necessitam de nenhum signatário, é somente a certificação para comprovar que o documento é autêntico e ter o carimbo de tempo do momento em que foi certificado. A **Certificação de Contrato** é utilizada quando obrigatoriamente pessoas precisam assinar o documento. Tendo um ou mais signatários, sempre deverá ser certificado utilizando a Certificação de Contrato.
 
 ===========================================================================================
 Adicionei por engano um contrato no Registro de Autenticidade, posso adicionar signatários?
 ===========================================================================================
 
-Caso ainda não tenha feito o pagamento, é possível submeter o mesmo documento na área para Registro de Contrato e adicionar os signatários. Se já tiver feito o pagamento, não é possível adicionar nenhum signatário.
+Caso ainda não tenha feito o pagamento, é possível submeter o mesmo documento na área para Certificação de Contrato e adicionar os signatários. Se já tiver feito o pagamento, não é possível adicionar nenhum signatário.
 
-==============================================================================================================
-Registrei meu contrato utilizando o Registro de Autenticidade e não consigo adicionar os signatários. E agora?
-==============================================================================================================
+================================================================================================================
+Certifiquei meu contrato utilizando o Registro de Autenticidade e não consigo adicionar os signatários. E agora?
+================================================================================================================
 
-Será necessário enviar um novo documento. Qualquer alteração por menor que seja, modificará a Identidade do documento. Abrir o arquivo e clicar em "Salvar" já é considerada uma modificação. Utilize este arquivo modificado para gerar um novo PDF e fazer o **Registro de Contrato** com os signatários.
+Será necessário enviar um novo documento. Qualquer alteração por menor que seja, modificará a Identidade do documento. Abrir o arquivo e clicar em "Salvar" já é considerada uma modificação. Utilize este arquivo modificado para gerar um novo PDF e fazer a **Certificação de Contrato** com os signatários.
 
-======================================================================================
-Depois de registrar o contrato eu consigo adicionar, remover ou trocar os signatários?
-======================================================================================
+=======================================================================================
+Depois de certificar o contrato eu consigo adicionar, remover ou trocar os signatários?
+=======================================================================================
 
-Caso ainda não tenha feito o pagamento, é possível adicionar, remover ou trocar os signatários. Caso já tenha pago, não será possível adicionar, remover ou trocar os signatários. O Registro de Contrato no Blockchain funciona da mesma forma como no mundo físico. Exemplo: Um contrato em papel registrado na Junta Comercial, não pode ter somente a página com os signatários alterada e continuar válido. Qualquer alteração significa modificar o documento inteiro e fazer um **NOVO** registro. 
+Caso ainda não tenha feito o pagamento, é possível adicionar, remover ou trocar os signatários. Caso já tenha pago, não será possível adicionar, remover ou trocar os signatários. A Certificação de Contrato no Blockchain funciona da mesma forma como no mundo físico. Exemplo: Um contrato em papel registrado na Junta Comercial, não pode ter somente a página com os signatários alterada e continuar válido. Qualquer alteração significa modificar o documento inteiro e fazer um **NOVA** certificação. 
 
 ====================================================================================
 Nem todos os signatários estão com o aplicativo instalado, eu vou conseguir assinar?
@@ -247,35 +247,35 @@ Qual o tamanho máximo que um arquivo pode ter para ser registrado?
 
 A OriginalMy registra no blockchain somente a Assinatura Digital do documento que sempre terá o mesmo tamanho de 64 caracteres. O que limita o tamanho do arquivo, é a memória do computador que está sendo utilizado para gerar a assinatura digital que é obtida através de cálculos matemáticos. Sendo assim, o que determinará o tamanho máximo do arquivo, é a memória do computador do usuário.
 
-===============================================================
-O registro na OriginalMy substitui o "Reconhecimento de Firma"?
-===============================================================
+===================================================================
+A certificação na OriginalMy substitui o "Reconhecimento de Firma"?
+===================================================================
 
 Não. O que pode ser feito é uma verificação se para o documento em questão, existe uma necessidade legal do reconhecimento de firma ou se é solicitado apenas por hábito. 
 
-==================================================================
-Como eu crio um documento ideal para ser registrado na OriginalMy?
-==================================================================
+===================================================================
+Como eu crio um documento ideal para ser certificado na OriginalMy?
+===================================================================
 
-Você pode criar um documento PDF contendo todas as informações que considerar importantes. Neste documento, escreva tudo que precisa ser descrito, coloque imagens, fotos, gráficos ou qualquer outra informação que considerar relevante. Depois de registrado este documento não poderá ser alterado. Guarde cópias do documento em locais seguros.
+Você pode criar um documento PDF contendo todas as informações que considerar importantes. Neste documento, escreva tudo que precisa ser descrito, coloque imagens, fotos, gráficos ou qualquer outra informação que considerar relevante. Depois de certificado este documento não poderá ser alterado. Guarde cópias do documento em locais seguros.
 
-================================================================
-Os registros em blockchain já estão sendo aceitos nos tribunais?
-================================================================
+====================================================================
+As certificações em blockchain já estão sendo aceitos nos tribunais?
+====================================================================
 
 Até o momento temos o conhecimento de um caso em que provas foram coletadas utilizando a OriginalMy e o juiz deferiu uma liminar em favor das provas. Isso significa que as provas foram aceitas porém ainda não existe jurisprudência para a utilização do blockchain isoladamente.
 
-======================================================================================
-Tenho uma ideia incrível, se eu registrar na OriginalMy estou protegido contra plágio?
-======================================================================================
+=======================================================================================
+Tenho uma ideia incrível, se eu certificar na OriginalMy estou protegido contra plágio?
+=======================================================================================
 
-Não. Não existe nenhum mecanismo legal que proteja ideias. Caso a ideia tenha evoluído para um projeto, ele pode ser registrado no OriginalMy para comprovar a autoria e te proteger contra concorrência desleal.
+Não. Não existe nenhum mecanismo legal que proteja ideias. Caso a ideia tenha evoluído para um projeto, ele pode ser certificado na OriginalMy para comprovar a autoria e te proteger contra concorrência desleal.
 
 ================================================================================
 Como utilizo a OriginalMy para proteger minha ideia contra concorrência desleal?
 ================================================================================
 
-O primeiro passo é descrever a ideia da forma mais detalhada possível num documento PDF e fazer o Registro de Autenticidade deste documento antes de dar publicidade a ideia. Como todo registro em blockchain, este documento terá uma Assinatura Digital. Quando for apresentar a ideia para alguém, o ideal é que todas as partes envolvidas assinem um Acordo de Não Divulgação (NDA) e neste acordo deve constar a Assinatura Digital gerada no Registro de Autenticidade. Assim, caso uma das partes utilize as informações divulgadas, você estará protegido pois a lei garante a proteção nesse tipo de caso. A assinatura do NDA pode ser feita utilizando a ferramenta para Registro de Contratos da OriginalMy.
+O primeiro passo é descrever a ideia da forma mais detalhada possível num documento PDF e fazer o Registro de Autenticidade deste documento antes de dar publicidade a ideia. Como todo registro de autenticidade em blockchain, este documento terá uma Assinatura Digital. Quando for apresentar a ideia para alguém, o ideal é que todas as partes envolvidas assinem um Acordo de Não Divulgação (NDA) e neste acordo deve constar a Assinatura Digital gerada no Registro de Autenticidade. Assim, caso uma das partes utilize as informações divulgadas, você estará protegido pois a lei garante a proteção nesse tipo de caso. A assinatura do NDA pode ser feita utilizando a ferramenta para Certificação de Contratos da OriginalMy.
 
 ===================================================
 Posso fazer meu testamento utilizando a OriginalMy?

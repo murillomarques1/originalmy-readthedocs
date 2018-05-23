@@ -38,9 +38,9 @@ Abra o terminal no seu computador:
 O que o OriginalMy faz com essa assinatura digital?
 ---------------------------------------------------
 
-O OriginalMy efetua o registro dessa assinatura digital, calculada a partir do documento fornecido pelo usuário, em diversos blockchains, públicos e/ou privados.
+O OriginalMy efetua a certificação dessa assinatura digital, calculada a partir do documento fornecido pelo usuário, em diversos blockchains, públicos e/ou privados.
 
-No momento em que o blockchain confirma o registro, ele recebe um carimbo de tempo (*timestamp*) que comprova o momento da confirmação.
+No momento em que o blockchain confirma o registro de autenticidade, ele recebe um carimbo de tempo (*timestamp*) que comprova o momento da certificação.
 
 Como os blockchains públicos tem como premissa a imutabilidade e transparência, o registro da assinatura digital nunca mais poderá ser removido ou alterado, servindo de prova de que naquele momento certo documento digital existia. E ainda pode ser consultado livremente 24 horas por dia, 7 dias por semana, gratuitamente.
 
@@ -76,7 +76,7 @@ Ethereum Blockchain
 Sobre
 -----
 
-O registro nos blockchains com tecnologia Ethereum são feitos através de aplicações descentralizadas, desenvolvidas exclusivamente para este fim.
+O registro de autenticidade nos blockchains com tecnologia Ethereum são feitos através de aplicações descentralizadas, desenvolvidas exclusivamente para este fim.
 
 Como verificar
 --------------
@@ -110,15 +110,15 @@ Decred Blockchain
 Sobre
 -----
 
-O registro em Blockchain Decred é feito através de um método chamado *pool de registros* ou **registro compartilhado**. Este método utiliza uma versão customizada do projeto Drctime, que se baseou no OpenTimestamps para sua construção.
+O registro de autenticidade em Blockchain Decred é feito através de um método chamado *pool de registros* ou **registro compartilhado**. Este método utiliza uma versão customizada do projeto Drctime, que se baseou no OpenTimestamps para sua construção.
 
-Não são feitos registros individuais nesse blockchain. As assinaturas digitais são acumuladas e depois de certo tempo, elas são agrupadas e somente um registro, que representa todo o bloco, é gravado no blockchain.
+Não são feitos registros de autenticidade individuais nesse blockchain. As assinaturas digitais são acumuladas e depois de certo tempo, elas são agrupadas e somente um registro, que representa todo o bloco, é gravado no blockchain.
 
 Ele funciona da seguinte maneira:
 
-- No espaço de uma hora, o sistema acumula todos as assinaturas digitais registradas
-- De hora em hora ele agrupa todos os registros naquele intervalo e calcula uma assinatura digital para o bloco, que  chamada de merkle tree.
-- A assinatura digital (merkle tree) do bloco de assinaturas digitais é registrada no blockchain
+- No espaço de uma hora, o sistema acumula todos as assinaturas digitais dos documentos submetidos na plataforma da OriginalMy.
+- De hora em hora ele agrupa todas as assinaturas digitais acumuladas naquele intervalo e calcula uma assinatura digital para o bloco, que é chamada de merkle tree.
+- A assinatura digital (merkle tree) do bloco de assinaturas digitais é certificada no blockchain.
 
 
 Como verificar
@@ -135,8 +135,8 @@ Como verificar
 Curiosidades
 ============
 
-.. note:: O registro e assinatura de contratos acontece somente na rede Ethereum Classic
+.. note:: A certificação e assinatura de contratos acontece somente na rede Ethereum Classic
 
-.. note:: A cada novo cadastro, com email validado, o usuário do OriginalMy ganha um voucher com *registros free*, que acontece somente na rede Decred.
+.. note:: A cada novo cadastro, com email validado, o usuário do OriginalMy ganha um voucher com *certificações free*, que acontecem somente na rede Decred.
 
-.. note:: O registro na rede Decred faz uso de uma rede centralizada, porém aberta e pública. É centralizada porque precisa agrupar os registros por um certo período de tempo.
+.. note:: A certificação na rede Decred faz uso de uma rede centralizada, porém aberta e pública. É centralizada porque precisa agrupar os registros por um certo período de tempo.
