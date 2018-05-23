@@ -275,7 +275,7 @@ Não. Não existe nenhum mecanismo legal que proteja ideias. Caso a ideia tenha 
 Como utilizo a OriginalMy para proteger minha ideia contra concorrência desleal?
 ================================================================================
 
-O primeiro passo é descrever a ideia da forma mais detalhada possível num documento PDF e fazer o Registro de Autenticidade deste documento antes de dar publicidade a ideia. Como todo registro em blockchain, este documento terá uma Assinatura Digital. Quando for apresentar a ideia para alguém, o ideal é que todas as partes envolvidas assinem um Acordo de Não Divulgação (NDA) e neste acordo deve constar a Assinatura Digital gerada no Registro de Autenticidade. Assim, caso uma das partes utilize as informações divulgadas, você estará protegido pois a lei garante a proteção nesse tipo de caso. A assinatura do NDA pode ser feita utilizando a ferramenta para Registro de Contratos da OriginalMy.
+O primeiro passo é descrever a ideia da forma mais detalhada possível num documento PDF e fazer o Registro de Autenticidade deste documento antes de dar publicidade a ideia. Como todo registro de autenticidade em blockchain, este documento terá uma Assinatura Digital. Quando for apresentar a ideia para alguém, o ideal é que todas as partes envolvidas assinem um Acordo de Não Divulgação (NDA) e neste acordo deve constar a Assinatura Digital gerada no Registro de Autenticidade. Assim, caso uma das partes utilize as informações divulgadas, você estará protegido pois a lei garante a proteção nesse tipo de caso. A assinatura do NDA pode ser feita utilizando a ferramenta para Certificação de Contratos da OriginalMy.
 
 ===================================================
 Posso fazer meu testamento utilizando a OriginalMy?
