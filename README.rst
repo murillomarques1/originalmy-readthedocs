@@ -30,7 +30,7 @@ Funcionalidades
     Um uso frequente tem sido a coleta de provas para casos de calúnia e difamação em redes sociais.
 - Assinatura de Contratos
     Desenvolvemos um app para assinatura de contratos, que vai muito além na parte de segurança. 
-    Você pode registrar a autenticidade do contrato através do link: https://originalmy.com/contratos. 
+    Você pode registrar a autenticidade do contrato através do link: https://originalmy.com/assinatura-de-contratos. 
     Tão logo o registro de autenticidade esteja no Blockchain juntamente com os signatários, aparecerá no app de cada signatário que há um documento disponível para ser assinado.
 - Identidade Blockchain
     Através do nosso app, nós fazemos a validação de identidade dos nossos usuários. Após o cadastro completo, o sistema cria uma Identidade Blockchain que fica em posse do usuário. Através dessa identidade única e exclusiva, o usuário pode efetuar ações na plataforma, como assinatura de contratos pelo app ou através do site, por exemplo.
@@ -42,8 +42,8 @@ Links importantes
 
 Acesse:
 
-- https://originalmy.com para registrar a autenticidade de documentos digitais
-- https://originalmy.com/contratos para registrar e assinar contratos e documentos que necessitem de assinatura
+- https://originalmy.com/registro-de-autenticidade para registrar a autenticidade de documentos digitais
+- https://originalmy.com/assinatura-de-contratos para lançar e assinar contratos ou documentos que necessitem de assinatura
 - https://originalmy.com/voucher para adquirir cupons com desconto para a aquisição de diversos registros
 
 
