@@ -8,14 +8,14 @@ Certificação de Contratos
 =========================
 
 1. Entre em https://originalmy.com e faça Login
-2. Clique em **Certificar Contratos**
-3. Preencha os CPFs dos signatários
+2. Clique em **Assinatura de Contrato** e depois em **Lançar Contrato**
+3. Preencha os CPFs ou Passaportes dos signatários
 4. Coloque um apelido para identificar o contrato (este apelido irá aparecer no app)
 5. Submeta o documento final do contrato (PDF)
 
 .. note:: O documento somente será certificado em Blockchain após todos os signatários estiverem instalado o app e completado o cadastro.
 
-.. image:: images/registro_contrato.png
+.. image:: images/lancar_contrato.png
   :scale: 70%
 
 =======================
@@ -42,10 +42,10 @@ Existem duas formas de conseguir o PIN do documento.
 .. note:: O PIN é necessário para a PROVA DE POSSE do documento.
 
 * **Forma 1:**
-  Entre em OriginalMy.com, submeta o documento e veja o PIN do contrato
+  Entre em OriginalMy.com, clique em Assinatura de contrato, Verificar PIN e submeta o documento a ser assinado
 
-.. image:: images/pin1.jpg
-  :scale: 50%
+.. image:: images/pin_site.jpg
+  :scale: 70%
 
 
 * **Forma 2:**
@@ -61,13 +61,13 @@ Controles de Segurança para a Assinatura de Contratos
 
 O OriginalMy possui 4 níveis de segurança para a assinatura de contratos:
 
-1) Cadastro completo através do app (KYC completo com validação do CPF em bases públicas)
+1) Cadastro completo através do app (KYC completo com validação do CPF ou passaporte em bases públicas)
 
 2) Usuário e senha
 
-3) Chave privada em posse do usuário (através da um conjunto com 12 palavras em português)
+3) Chave privada em posse do usuário (através da um conjunto com 12 palavras em português ou inglês dependendo do idioma selecionado)
 
-4) Prova de Posse do documento
+4) Prova de Posse do documento (através do PIN)
 
 .. note:: KYC significa Know Your Customer, ou Conheça Seu Cliente em português. São técnicas para identificar o usuário quando o uso da ferramenta é crítico e precisa ser aderente às regulações vigentes.
 
