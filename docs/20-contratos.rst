@@ -44,7 +44,7 @@ Existem duas formas de conseguir o PIN do documento.
 * **Forma 1:**
   Entre em OriginalMy.com, clique em Assinatura de contrato, Verificar PIN e submeta o documento a ser assinado
 
-.. image:: images/pin_site.jpg
+.. image:: images/pin_site.png
   :scale: 70%
 
 
