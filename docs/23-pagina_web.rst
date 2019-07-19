@@ -25,4 +25,4 @@ O Cartório realiza a Autenticação Digital da cópia da página web, e a dispo
 juntamente com a Declaração de Serviço de Autenticação de Página Web.
 
 O documento é disponibilizado como uma Declaração de Serviço de Autenticação de Página Web e
-se torna público e verificável atráves do endereço eletrôninco: http://web.autdigital.azevedobastos.not.br
+se torna público e verificável atráves do endereço eletrônico: http://web.autdigital.azevedobastos.not.br
