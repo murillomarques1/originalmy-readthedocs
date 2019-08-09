@@ -159,39 +159,77 @@ Estes Termos de Uso (“Termos de Uso”) estabelecem os termos e condições de
 Política de Privacidade e Segurança de Dados
 ============================================
 
-1.  Esta Política de Privacidade e Segurança de Dados (“Política”) define as diretrizes para o tratamento e proteção das informações pessoais coletadas durante o acesso e uso do serviço de assinatura digital de contratos e/ou outros documentos eletrônicos oferecido por ORIGINALMY BLOCKCHAIN CERTIFICADORA DIGITAL LTDA., sociedade limitada com sede na cidade de São Paulo, Estado de São Paulo, na Av. João de Barros, nº 155 conj. 174 B, Socorro, CEP 04764-090, inscrita no CNPJ/MF nº 27.053.088/0001-66 (“OriginalMy”) (“Serviço”).
+A OriginalMy coleta dados pessoais com a finalidade de prestar seus serviços. Somos comprometidos a preservar a privacidade e segurança de nossos usuários, com tal processamento de dados sendo feito em estrita conformidade às leis e regulamentos aplicáveis, em particular com o Regulamento Geral de Proteção de Dados da União Europeia (GDPR) e a Lei Geral de Proteção de Dados (LGPD). É altamente recomendado que os usuários leiam com atenção a presente Política de Privacidade.
 
-2. Esta Política é complementar aos Termos de Uso que regulam o acesso e uso do Serviço pelo correspondente usuário (“Usuário”) quando o aplicativo de assinatura digital (“Aplicativo”) e/ou o website (“Website”) da OriginalMy e/ou outros softwares, serviços e/ou recursos correlatos são instalados, acessados e/ou utilizados (“Termos de Uso”). 
+1.  SOBRE A ORIGINAL MY E A POLÍTICA DE PRIVACIDADE
+-----------------------
+Esta Política de Privacidade e Segurança de Dados (“Política”) define as diretrizes para o tratamento e proteção das informações pessoais coletadas durante o acesso e uso do serviço de assinatura digital de contratos, prova de autenticidade de conteúdo WEB  outros documentos eletrônicos oferecido por ORIGINALMY BLOCKCHAIN CERTIFICADORA DIGITAL LTDA., sociedade limitada com sede na Estônia, sendo registrada sob o número 14450907, situada em Harju Maakond, Tallinn, Kesklinna Linnaosa, Narva mnt 5, 10117. A empresa também possui escritório em São Paulo, situado à Rua do Paraíso, 347, Paraíso, São Paulo/SP, CEP 015040-000, inscrita no CNPJ/MF nº 27.053.088/0001-66. Os responsáveis pelo projeto podem ser contatados pelo e-mail contato@originalmy.com e pelo telefone (11) 99322-2870 
 
-3. O cadastramento como usuário para utilização do Serviço ("Usuário") implica em aceitação plena e irrevogável de todos os termos e condições vigentes e publicados pela OriginalMy nos canais eletrônicos para aquisição do Aplicativo, inclusive aceitação desta Política, conforme eventualmente alterados.
+Esta Política é complementar aos Termos de Uso que regulam o acesso e uso do Serviço pelo correspondente usuário (“Usuário”) quando o aplicativo de assinatura digital (“Aplicativo”) e/ou o website (“Website”) da OriginalMy e/ou outros softwares, serviços e/ou recursos correlatos são instalados, acessados e/ou utilizados (“Termos de Uso”), bem como, estabelece o tratamento que a OriginalMy concede às informações dos Usuários e dos terceiros envolvidos na assinatura digital de contratos e/ou outros documentos (“Signatários”) que são capturados e/ou armazenadas pela OriginalMy. 
 
-4. Esta Política estabelece o tratamento que a OriginalMy concede às informações dos Usuários e dos terceiros envolvidos na assinatura digital de contratos e/ou outros documentos (“Signatários”) que são capturados e/ou armazenadas pela OriginalMy. 
+2.  ALTERAÇÕES DA POLÍTICA DE PRIVACIDADE
+-----------------------
+A OriginalMy reserva-se o direito de, a seu exclusivo critério, modificar esta Política, incluindo novas regras, condições e/ou restrições, devendo comunicar isto ao Usuário através das plataformas de uso do Serviço, inclusive o Aplicativo e/ou o Website. A continuidade do acesso e/ou uso do Serviço pelo Usuário implicará em automática aceitação de eventuais atualizações desta.
 
-5. A OriginalMy reserva-se o direito de, a seu exclusivo critério e sem aviso prévio, modificar esta Política, incluindo novas condições e/ou restrições, devendo comunicar isto ao Usuário através das plataformas de uso do Serviço, inclusive o Aplicativo e/ou o Website. A continuidade do acesso e/ou uso do Serviço pelo Usuário implicará em automática aceitação de eventuais atualizações desta. Desta forma, recomendamos que Usuários e Signatários façam a leitura prévia desta Política ao acessar o Aplicativo.
+3. DADOS COLETADOS E SUA FINALIDADE
+-----------------------
+Ao acessar o Aplicativo e/ou o Website, independentemente de cadastro, certas informações dados sobre o navegador utilizado, tipo de dispositivo, tempo gasto, endereço de IP, sistema operacional, navegador, idioma do navegador, fuso horário, horário local e geolocalização, serão armazenados em servidores utilizados pela OriginalMy.
 
-6. Ao acessar o Aplicativo e/ou o Website, independentemente de cadastro, certas informações sobre o visitante como o protocolo de Internet (IP), navegação através do site, o software utilizado e o tempo gasto, junto com outras informações semelhantes, serão armazenados em servidores utilizados pela OriginalMy. 
+Estas e outras informações pessoais capturadas dos Usuários e Signatários são necessárias para sua identificação no contexto do acesso e utilização dos Serviços. 
 
-7. Estas e outras informações pessoais capturadas dos Usuários e Signatários são necessárias para sua identificação no contexto do acesso e utilização dos Serviços. 
+A fim de prestar seus serviços de coleta de provas sobre conteúdo online por meio do aplicativo e plugin PACWeb, a OriginalMy coleta os seguintes dados: nome completo, CPF, endereço de e-mail, geolocalização, fuso horário, horário local, endereço de IP, sistema operacional, navegador e idioma do navegador. Tais dados são coletados para a identificação da autoria do relatório gerado, fornecendo assim maior grau de segurança e autenticidade para a prova coletada.
 
-8. As informações capturadas ficarão armazenadas e obedecem a padrões rígidos de confidencialidade e segurança, tais como a criptrografia. Entretanto, é importante que o usuário tenha ciência de que pela própria natureza e características técnicas da Internet, essa proteção não é infalível e encontra-se sujeita à violação pelas mais diversas práticas maliciosas.
+Além disso, a OriginalMy também utiliza dados para fins de marketing e comunicação, incluindo a divulgação de produtos, serviços, atividades, promoções, campanhas e eventos nos quais a OriginalMy tenha parte, bem como informações de suporte ao usuário, por e-mail e/ou SMS.
 
-9. Tais informações serão utilizadas internamente para fins operacionais e estratégicos, envolvendo a administração do Website e do Serviço, incluindo, dentre outras hipóteses, realização de estatísticas e estudos, análise de tráfego, administração, gestão, ampliação e melhoramento das funcionalidades do Serviço, customização do Serviço. 
+4. ARMAZENAMENTO DOS DADOS 
+-----------------------
+As informações capturadas ficarão armazenadas e obedecem a padrões rígidos de confidencialidade e segurança, tais como a criptrografia. Entretanto, é importante que o usuário tenha ciência de que pela própria natureza e características técnicas da Internet, essa proteção não é infalível e encontra-se sujeita à violação pelas mais diversas práticas maliciosas.
 
-10. Nenhum documento e/ou informação pessoal será divulgado e/ou compartilhado em nenhuma hipótese, exceto se expressamente autorizado pelo Usuário e/ou Signatário ou mediante ordem judicial ou por determinação legal.
+Tais informações serão utilizadas internamente para fins operacionais e estratégicos, envolvendo a administração do Website e do Serviço, incluindo, dentre outras hipóteses, realização de estatísticas e estudos, análise de tráfego, administração, gestão, ampliação e melhoramento das funcionalidades do Serviço, customização do Serviço. 
 
-11. Nenhum documento e/ou informação pessoal será vendido e as informações pessoais dos Usuários não serão expostas individualmente a quaisquer terceiros, exceto conforme estabelecido neste instrumento ou na forma da Lei e mediante ordem judicial.
+A OriginalMy não realizará a guarda nem o arquivamento de qualquer contrato e/ou outro documento inserido (uploaded) para fins de assinatura por meio do Aplicativo. Por esta razão, o Usuário e/ou os Signatários dos contratos e/ou outros documentos deverão tomar todas as medidas necessárias para a guarda e arquivamento dos contratos e/ou outros documentos assinados através do Aplicativo.
 
-12. A OriginalMy não realizará a guarda nem o arquivamento de qualquer contrato e/ou outro documento inserido (uploaded) para fins de assinatura por meio do Aplicativo. Por esta razão, o Usuário e/ou os Signatários dos contratos e/ou outros documentos deverão tomar todas as medidas necessárias para a guarda e arquivamento dos contratos e/ou outros documentos assinados através do Aplicativo.
+Os números de cartões de crédito ou débito fornecido pelos Usuários são utilizados somente no processamento dos pagamentos dos Serviços prestados, não sendo armazenados em banco de dados.
 
-13. Os números de cartões de crédito ou débito fornecido pelos Usuários são utilizados somente no processamento dos pagamentos dos Serviços prestados, não sendo armazenados em banco de dados.
+5. PRAZO DO ARMAZENAMENTO DOS DADOS 
+-----------------------
+No que tange ao serviço de coleta de provas sobre conteúdo online por meio do aplicativo e plugin PACWeb, a OriginalMy armazena os dados referidos no tópico 3 de modo transitório, por 24 horas, para que sejam processados. Nesse tempo, eles são armazenados em seu servidor de modo seguro e protegidos contra perda, má utilização e acesso não autorizado, e utilizados somente para os fins específicos para que foram coletados e autorizados. Os hashes de relatórios gerados também são armazenados e vinculados às contas de cada usuário.
 
-14. O Usuário garante e se responsabiliza pela veracidade, exatidão, vigência e autenticidade das fotos pessoais e outras informações que venha a fornecer para uso do Serviço, comprometendo-se a mantê-los atualizados. A OriginalMy não tem qualquer responsabilidade no caso de inserção de dados falsos ou de sua inexatidão, podendo, a seu exclusivo critério, suspender e/ou cancelar o cadastro do Usuário, a qualquer momento, caso seja detectada qualquer inexatidão.
+Os demais dados coletados serão armazenados enquanto forem necessários para a atividade dos usuários, por um prazo máximo de 1 ano após a inativação do cadastro do usuário, ou mediante requerimento do mesmo ou determinação pela autoridade competente.
 
-15. Uma vez cadastrado, o Usuário poderá, a qualquer tempo, por meio de ferramenta oferecida no Aplicativo e/ou no Website, revisar e alterar suas informações de cadastro.
+5. RELAÇÃO COM TERCEIROS 
+-----------------------
+A OriginalMy poderá compartilhar os dados pessoais coletados com seus parceiros, como o Cartório Azevêdo Bastos, para que este faça a autenticação notarial do relatório gerado. Note-se que esses websites possuem suas próprias políticas de privacidade, pelas quais a OriginalMy não é responsável.
 
-16. A OriginalMy poderá enviar comunicados e mensagens publicitárias ao Usuário fazendo uso de todas as tecnologias e os meios de comunicação disponíveis, seja por e-mail, SMS, MMS, mala-direta e outros. Todos os boletins eletrônicos e mensagens publicitárias enviadas por e-mail sempre trarão opção de cancelamento do envio daquele tipo de mensagem. O cancelamento será realizado no tempo mínimo necessário. As mensagens e notificações relacionadas ao Serviço não poderão ser canceladas, exceto se houver o cancelamento do próprio cadastro do Usuário.
+Nenhum documento e/ou informação pessoal será divulgado e/ou compartilhado em nenhuma hipótese, exceto se expressamente autorizado pelo Usuário e/ou Signatário ou mediante ordem judicial ou por determinação legal.
 
-17. O Usuário autoriza a OriginalMy a elaborar relatórios sobre os contratos e/ou os outros documentos assinados e disponibilizar estes relatórios ao Usuário e/ou aos demais Signatários.
+Nenhum documento e/ou informação pessoal será vendido e as informações pessoais dos Usuários não serão expostas individualmente a quaisquer terceiros, exceto conforme estabelecido neste instrumento ou na forma da Lei e mediante ordem judicial.
 
-18. Caso haja alguma dúvida sobre a Política, entre em contato conosco.
+6. DIREITOS E RESPONSABILIDADES DO USUÁRIO 
+-----------------------
+O Usuário garante e se responsabilizar pela veracidade, exatidão, vigência e autenticidade das fotos pessoais e outras informações que venha a fornecer para uso do Serviço, comprometendo-se a mantê-los atualizados. A OriginalMy não tem qualquer responsabilidade no caso de inserção de dados falsos ou de sua inexatidão, podendo, a seu exclusivo critério, suspender e/ou cancelar o cadastro do Usuário, a qualquer momento, caso seja detectada qualquer inexatidão.
+
+Os usuários da OriginalMy, em cumprimento ao Regulamento Geral de Proteção de Dados,  possuem garantidos os direitos à:
+- Transparência, informação, acesso e notificação, de modo a estarem cientes do tratamento dado a seus dados; 
+- Retificação de dados incorretos e preenchimento de dados incompletos;
+- Apagamento, que pode ser solicitado pelo usuário, além de efetuado automaticamente nos casos previstos em lei, como na eventualidade de terem deixado de ser necessários para a finalidade pela qual foram coletados;
+- Oposição quanto à possibilidade de recebimento de comunicações diretas via e-mail e/ou SMS;
+- Retirada de consentimento para a coleta e utilização de dados, a qualquer tempo;
+- Não sujeição a decisões automatizadas, de modo a solicitar intervenção humana sempre que julgarem necessário;
+- Portabilidade, solicitando a transferência de seus dados a entidades terceiras.
+
+7. CADASTRAMENTO E ACEITE DOS TERMOS E CONDIÇÕES  
+----------------------- 
+O cadastramento como usuário para utilização do Serviço ("Usuário") implica em aceitação plena e irrevogável de todos os termos e condições vigentes e publicados pela OriginalMy nos canais eletrônicos para aquisição do Aplicativo, inclusive aceitação desta Política, conforme eventualmente alterados.
+
+Uma vez cadastrado, o Usuário poderá, a qualquer tempo, por meio de ferramenta oferecida no Aplicativo e/ou no Website, revisar e alterar suas informações de cadastro.
+
+O cadastramento do usuário também autoriza a OriginalMy a elaborar relatórios sobre os contratos e/ou os outros documentos assinados e disponibilizar estes relatórios ao Usuário e/ou aos demais Signatários.
+
+8. PUBLICIDADE 
+----------------------
+A OriginalMy poderá enviar comunicados e mensagens publicitárias ao Usuário fazendo uso de todas as tecnologias e os meios de comunicação disponíveis, seja por e-mail, SMS, MMS, mala-direta e outros. Todos os boletins eletrônicos e mensagens publicitárias enviadas por e-mail sempre trarão opção de cancelamento do envio daquele tipo de mensagem. O cancelamento será realizado no tempo mínimo necessário. As mensagens e notificações relacionadas ao Serviço não poderão ser canceladas, exceto se houver o cancelamento do próprio cadastro do Usuário.
+
+
+Caso haja alguma dúvida sobre a Política, entre em contato conosco.
 
