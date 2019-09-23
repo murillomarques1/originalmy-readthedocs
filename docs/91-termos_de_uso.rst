@@ -173,7 +173,7 @@ A OriginalMy reserva-se o direito de, a seu exclusivo critério, modificar esta 
 
 3. DADOS COLETADOS E SUA FINALIDADE
 -----------------------
-Ao acessar o Aplicativo e/ou o Website, independentemente de cadastro, certas informações dados sobre o navegador utilizado, tipo de dispositivo, tempo gasto, endereço de IP, sistema operacional, navegador, idioma do navegador, fuso horário, horário local e geolocalização, serão armazenados em servidores utilizados pela OriginalMy.
+Ao acessar o Aplicativo e/ou o Website, independentemente de cadastro, certas informações (dados sobre o navegador utilizado, tipo de dispositivo, tempo gasto, endereço de IP, sistema operacional, navegador, idioma do navegador, fuso horário, horário local e geolocalização) serão armazenados em servidores utilizados pela OriginalMy.
 
 Estas e outras informações pessoais capturadas dos Usuários e Signatários são necessárias para sua identificação no contexto do acesso e utilização dos Serviços. 
 
@@ -185,7 +185,9 @@ Além disso, a OriginalMy também utiliza dados para fins de marketing e comunic
 -----------------------
 As informações capturadas ficarão armazenadas e obedecem a padrões rígidos de confidencialidade e segurança, tais como a criptrografia. Entretanto, é importante que o usuário tenha ciência de que pela própria natureza e características técnicas da Internet, essa proteção não é infalível e encontra-se sujeita à violação pelas mais diversas práticas maliciosas.
 
-Tais informações serão utilizadas internamente para fins operacionais e estratégicos, envolvendo a administração do Website e do Serviço, incluindo, dentre outras hipóteses, realização de estatísticas e estudos, análise de tráfego, administração, gestão, ampliação e melhoramento das funcionalidades do Serviço, customização do Serviço. 
+Tais informações serão utilizadas internamente para fins operacionais e estratégicos, envolvendo a administração do Website e do Serviço, incluindo, dentre outras hipóteses, realização de estatísticas e estudos, análise de tráfego, administração, gestão, ampliação e melhoramento das funcionalidades do Serviço, para customização. 
+
+A OriginalMy armazenará os relatórios gerados pelo aplicativo e plugin PACWeb, a fim de otimizar a prestação do seu serviços de coleta de provas sobre conteúdo online.
 
 A OriginalMy não realizará a guarda nem o arquivamento de qualquer contrato e/ou outro documento inserido (uploaded) para fins de assinatura por meio do Aplicativo. Por esta razão, o Usuário e/ou os Signatários dos contratos e/ou outros documentos deverão tomar todas as medidas necessárias para a guarda e arquivamento dos contratos e/ou outros documentos assinados através do Aplicativo.
 
@@ -193,9 +195,9 @@ Os números de cartões de crédito ou débito fornecido pelos Usuários são ut
 
 5. PRAZO DO ARMAZENAMENTO DOS DADOS 
 -----------------------
-No que tange ao serviço de coleta de provas sobre conteúdo online por meio do aplicativo e plugin PACWeb, a OriginalMy armazena os dados referidos no tópico 3 de modo transitório, por 24 horas, para que sejam processados. Nesse tempo, eles são armazenados em seu servidor de modo seguro e protegidos contra perda, má utilização e acesso não autorizado, e utilizados somente para os fins específicos para que foram coletados e autorizados. Os hashes de relatórios gerados também são armazenados e vinculados às contas de cada usuário.
+No que tange ao serviço de coleta de provas sobre conteúdo online por meio do aplicativo e plugin PACWeb, a OriginalMy armazenará criptográficamente os dados referidos no tópico 3 em servidor próprio, de modo seguro e protegido contra perdas, má utilizações e acessos não autorizados. Estes dados serão utilizados somente para a finalidade específica das quais foram coletados e autorizados. Os hashes dos relatórios gerados também são armazenados e vinculados às contas de cada usuário.
 
-Os demais dados coletados serão armazenados enquanto forem necessários para a atividade dos usuários, por um prazo máximo de 1 ano após a inativação do cadastro do usuário, ou mediante requerimento do mesmo ou determinação pela autoridade competente.
+Os demais dados coletados serão armazenados enquanto forem necessários para a atividade dos usuários
 
 5. RELAÇÃO COM TERCEIROS 
 -----------------------
